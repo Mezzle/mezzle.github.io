@@ -1,0 +1,80 @@
+---
+layout: post
+status: publish
+published: true
+title: Geek Art
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 334
+wordpress_url: http://www.sourceguru.net/?p=334
+date: !binary |-
+  MjAxMC0wOC0xOSAyMzowNjo0OSArMDEwMA==
+date_gmt: !binary |-
+  MjAxMC0wOC0xOSAyMjowNjo0OSArMDEwMA==
+categories:
+- Personal
+tags:
+- open sauce
+- condiment
+- geek art
+comments:
+- id: 65474
+  author: Kete
+  author_email: kwfj@suddenlink.net
+  author_url: http://pages.suddenlink.net/handheldcar
+  date: !binary |-
+    MjAxMC0wOC0yMCAwMTo0NzoxNiArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMC0wOC0yMCAwMDo0NzoxNiArMDEwMA==
+  content: ! 'I''m so sick of the #%@! Tux. He''s the star like all we use is a kernel.'
+- id: 65589
+  author: Martijn
+  author_email: martijn@sudo-s.net
+  author_url: ''
+  date: !binary |-
+    MjAxMC0wOC0yMSAwMDoyMjoyMiArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMC0wOC0yMCAyMzoyMjoyMiArMDEwMA==
+  content: Shouldn't it be "open sauce"? ;-)
+- id: 301680
+  author: s d
+  author_email: crystalhelton@freenet.de
+  author_url: http://infobc.uniud.it/author/RheaZIL
+  date: !binary |-
+    MjAxMy0wNC0xNyAxMDo0NTozMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0wNC0xNyAwOTo0NTozMSArMDEwMA==
+  content: I always spent my half an hour to read this web site's content every day
+    along with a cup of coffee.
+- id: 707034
+  author: low testosterone in young men
+  author_email: guillermonathan@arcor.de
+  author_url: http://samp.efps.ro/index.php?mod=users&amp;action=view&amp;id=8048
+  date: !binary |-
+    MjAxNC0wOS0xNyAwMjo1ODoxMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wOS0xNyAwMTo1ODoxMSArMDEwMA==
+  content: ! "Great delivery. Outstanding arguments. Keep up the \r\namazing spirit.\r\n\r\nTake
+    a look at my homepage ... <a href=\"http://samp.efps.ro/index.php?mod=users&amp;action=view&amp;id=8048\"
+    rel=\"nofollow\">low testosterone in young men</a>"
+- id: 725080
+  author: Nuthurst
+  author_email: shantellkoenig@gmail.com
+  author_url: https://www.slideshare.net/incandescentdet70/test
+  date: !binary |-
+    MjAxNC0xMC0wNCAwMDo0NDo1MSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0xMC0wMyAyMzo0NDo1MSArMDEwMA==
+  content: Why visitors still use to read news papers when in this technological globe
+    everything is existing on net?
+permalink: geek-art
+---
+<p>I do love a bit of <a href="http://www.hellocatfood.com/">Geek Art</a> - and I loved what one of our LUGgers (whose name escapes me!) bought with them tonight's LUG Meeting :)</p>
+<p><img src="http://farm5.static.flickr.com/4119/4908504570_f8428a0b52.jpg" alt="Open Sauce!" /></p>
+<p>A great addition to any condiment cupboard!</p>

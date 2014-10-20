@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: Only one squirrel can say it as it is...
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 306
+wordpress_url: http://www.sourceguru.net/?p=306
+date: !binary |-
+  MjAwOS0xMi0xNiAxNzo0MjowMSArMDAwMA==
+date_gmt: !binary |-
+  MjAwOS0xMi0xNiAxNjo0MjowMSArMDAwMA==
+categories:
+- Personal
+tags:
+- xmas
+- letters to santa
+- foamy
+comments:
+- id: 60518
+  author: MTecknology
+  author_email: mtecknology@ubuntu.com
+  author_url: http://profarius.com
+  date: !binary |-
+    MjAxMC0wNy0wNyAyMDowMDo0NyArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMC0wNy0wNyAxOTowMDo0NyArMDEwMA==
+  content: ! "FOAMY!\r\nI love those videos he makes. I disagree with very few of
+    them."
+permalink: squirrel
+---
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/3drE5LFAdyY&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3drE5LFAdyY&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object><br />
+<a href="http://www.youtube.com/watch?v=3drE5LFAdyY">If you can't see the video above, click here</a></p>

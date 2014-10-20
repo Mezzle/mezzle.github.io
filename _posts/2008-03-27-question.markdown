@@ -1,0 +1,561 @@
+---
+layout: post
+status: publish
+published: true
+title: Question
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 120
+wordpress_url: http://www.sourceguru.net/archives/120
+date: !binary |-
+  MjAwOC0wMy0yNyAxMzo1Mjo1OCArMDAwMA==
+date_gmt: !binary |-
+  MjAwOC0wMy0yNyAxMjo1Mjo1OCArMDAwMA==
+categories:
+- Geeky
+tags: []
+comments:
+- id: 17983
+  author: Vinay S Shastry
+  author_email: vinayshastry@gmail.com
+  author_url: http://thenub.one09.net
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNTozNDoyMiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNDozNDoyMiArMDAwMA==
+  content: Filters at server side (like fastmail, google mail).
+- id: 17984
+  author: Dominik Sandjaja
+  author_email: dominik@dadadom.de
+  author_url: http://dadadom.de
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNTo0MDo1OSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNDo0MDo1OSArMDAwMA==
+  content: ! 'Well, I''ve had that same question for a while and IMHO a sorting on
+    the server side would be preferrable. Even more if the rules/filters could be
+    set with the help of the MUA.
+
+    My problem when using different clients, including webmail, is that I have to
+    create new rules within every MUA. Even when switching to the Windows on my machine,
+    I have to fight all non-filtered mails again.
+
+
+    So far my opinion.
+
+
+    Cheers,
+
+    Dominik'
+- id: 17985
+  author: GNa
+  author_email: nagy.gergely@gnanet.net
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNTo0MTo0MyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNDo0MTo0MyArMDAwMA==
+  content: ! 'I let most of the automated mails, like daily reports etc sorted with
+    maildrop.
+
+
+    But some of my colleagues do that with Thunderbird, and we don''t see any traffic
+    problems with that either.
+
+
+    So it can be both, but if you have also webmail access, then its better sorted
+    on the serverside.
+
+
+    Greg'
+- id: 17988
+  author: Francesco
+  author_email: fkberlin@gmx.net
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNTo0MzozMyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNDo0MzozMyArMDAwMA==
+  content: ! 'I''m not sure I''m quite getting what you are aiming at with this question,
+    but in my humble opinion as a user, it''s the MUA''s (a.k.a. the client side)
+    which should get the job done correctly because it is more straightforward for
+    me to change the settings. If the MDA can get it done before that, great, but
+    my feeling is it should be the MUA''s job to do that. As I imagine it, the MDA
+    just puts everything in in and the client sorts it out either manually or automatically.
+    No?
+
+    But I don''t know enough about the topic.'
+- id: 17989
+  author: Fred
+  author_email: frederic@meurou.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNTo0NTo0OCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNDo0NTo0OCArMDAwMA==
+  content: ! "Hi, \n\nI'd say it would be better if managed by the server, it would
+    be a lot more responsive. The client needs to dl every mail to do the job, depending
+    on the rules you've set up. \n\nMy 2 cents..."
+- id: 17990
+  author: Thomas K
+  author_email: takowl@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNTo0OTo1OCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNDo0OTo1OCArMDAwMA==
+  content: ! 'The server--that gives you the full benefit of using IMAP, because you
+    can access the same mail account from any client on any computer.
+
+
+    I currently have some filtering rules on the server, and some on my client. Ideally,
+    I''d have them all on the server, but the configuration options don''t let me
+    do everything I want. If I''m using another computer, I generally just put up
+    with most things going straight into my inbox for a bit. When I get back to my
+    own computer, the client will sort these things.'
+- id: 17991
+  author: shermann
+  author_email: sh@sourcecode.de
+  author_url: http://www.sourcecode.de/
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNTo1MDowMyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNDo1MDowMyArMDAwMA==
+  content: ! 'Depends on your IMAP server.
+
+
+    Cyrus knows very much about sieve...and it works nicely.
+
+    For other constellations sometimes the MUA solution can be the best to do.
+
+
+    Regards,
+
+    \sh'
+- id: 17992
+  author: Kenny Duffus
+  author_email: kenny@duffus.org
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNTo1MjoyMyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNDo1MjoyMyArMDAwMA==
+  content: ! 'I guess this depends whether you consider the use of ~/.procmailrc part
+    of the MTA or MUA its really MDA isn''t it?
+
+
+    Ignoring semantics I think it should be the user doing the filtering not a server
+    configuration.'
+- id: 17993
+  author: Mez
+  author_email: martin@sourceguru.net
+  author_url: http://
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNTo1MzozMCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNDo1MzozMCArMDAwMA==
+  content: Kenny, wouldn't ~/.procmailrc be the MDA ? (but as defined by the user?)
+- id: 17994
+  author: Tom
+  author_email: tom@tommcfarlin.com
+  author_url: http://tom@tommcfarlin.com
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNTo1NDozNSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNDo1NDozNSArMDAwMA==
+  content: ! "When I read this question, the idea of responsibility came to mind..\n\nAs
+    far as IMAP is concerned, I think that the Client is responsible for simply getting
+    the mail (whether it's sorted or not - it shouldn't care); whereas, the Server's
+    job is to sort the mail. \n\nI guess this is motivated directly by the idea that
+    IMAP should provide a synchronized appearance (for lack of a better word) regardless
+    of the client - if it's the client's responsibility to sort the mail, then he
+    has to work overtime reporting all of his work back to the server, because, if
+    he doesn't, then you lose one of the main features of IMAP. \n\nBut then again,
+    the nice thing about having features on both ends is that you can set it up however
+    you want."
+- id: 17995
+  author: jimcooncat
+  author_email: jimcooncat@yahoo.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNjowMDo1NyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNTowMDo1NyArMDAwMA==
+  content: ! 'Filtering done by the mail admin should be done server-side.
+
+
+    If the users have a good way to access the server-side filtering, they should
+    use it.
+
+
+    Client-side filtering should be reserved for users to be able to do per-machine
+    setups. For instance, when I''m home I have a different set of criteria than when
+    I''m at work.
+
+
+    Sometimes client-side is the only way to do some types of things.
+
+
+    Client-side filtering sucks in a few ways. Especially when you''re at another
+    machine and don''t have a way to get the client started.'
+- id: 17996
+  author: Christer Edwards
+  author_email: christer.edwards@gmail.com
+  author_url: http://ubuntu-tutorials.com
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNjowMTo0MCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNTowMTo0MCArMDAwMA==
+  content: ! 'if its an IMAP server I think it only makes sense that the server also
+    do the filtering.  The idea of IMAP is the server tracks the status of the email.  using
+    POP it''d make more sense to do it client side, as the client also manages the
+    status of the email.
+
+
+    I use sieve for server-side filtering and it works great for my IMAP account.'
+- id: 17997
+  author: S.
+  author_email: sundance@ierne.eu.org
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNjoxMjoyMyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNToxMjoyMyArMDAwMA==
+  content: ! 'MUA, no question.
+
+
+    We technical types would rather see it done on the server, where it belongs. We
+    technical types will configure maildrop or procmail to do it.
+
+
+    We are, however, not typical users.
+
+
+    Allowing filtering on the MUA side doesn''t prevent us technical types from doing
+    it on the server. The reverse, however, is not true: if the MUA can''t do it,
+    non-technical users will not be able to filter their email.
+
+
+    Additionally, making it a MUA function allows for it to work regardless of the
+    actual backend storage in use, IMAP or otherwise.
+
+
+    This is why, to me, the MUA should absolutely be able to do it, no question.'
+- id: 17998
+  author: Mez
+  author_email: martin@sourceguru.net
+  author_url: http://
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNjoyMjoxMSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNToyMjoxMSArMDAwMA==
+  content: S, it wasnt a question of whether the MUA should be allowed to do it, but
+    whether it should (in an IMAP context) rather than the MDA
+- id: 18000
+  author: Ross
+  author_email: ross@burtonini.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNjo1MTo1OCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNTo1MTo1OCArMDAwMA==
+  content: If you use a good IMAP server like Cyrus, then you can edit the server-side
+    filtering rules on the client (see http://sieve.info)
+- id: 18001
+  author: nnonix
+  author_email: null@void.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNzowMDowMCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNjowMDowMCArMDAwMA==
+  content: ! 'This is one of those relative questions that has no real answer. For
+    example, people use terms like "incoming mail" and "outgoing mail" because, from
+    their perspective such animals exists, yet to the server all of it is incoming
+    mail.
+
+
+    Filtering is the same way. Whether you use a client program like Thunderbird or
+    even Webmail and/or procmail to do the filtering, in a user-configurable environment
+    all these tools become MUA tools. The only exception to this is global filtering
+    such as filing SPAM into an applicable folder for all users.
+
+
+    Therefore the answer is, individual filtering is a client-side (MUA) activity
+    and global filtering is a server-side (MDA) activity regardless of the tools used.'
+- id: 18002
+  author: ruurd
+  author_email: ruurd@tiscali.nl
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNzowMTo0MCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNjowMTo0MCArMDAwMA==
+  content: It should perform that duty in the place I instruct it to. So, if I want
+    to do that in the client, I should be able to do that, if I want to so that in
+    the server, I should be able to do that too. Choice. And yes, that does indeed
+    look like Outlook/Exchange where there are client-side as well as server-side
+    mail processing rules.
+- id: 18003
+  author: Phoenix
+  author_email: phoenix_rizzen@hotmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNzoxMDo0NCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNjoxMDo0NCArMDAwMA==
+  content: ! 'If it''s an IMAP server, then the server should do everything related
+    to storing, threading, sorting, indexing, etc.  That way, the user sees the same
+    info no matter what client they use.
+
+
+    If the server-side filtering isn''t enough for the user, then they have the option
+    of finding an IMAP client that supports client-side filtering, and they can put
+    up with the pain of having their imap client touch every message in their inbox
+    to sort it.  :)
+
+
+    The nice thing about IMAP is that everything is stored on the server, and accessible
+    from any IMAP client (cell phone, mobile browser, web browser, fat client, etc).  So
+    keep all the managemetn duties on the server.'
+- id: 18004
+  author: Mats L.
+  author_email: malo001@rte.se
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNzozMjo0MCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNjozMjo0MCArMDAwMA==
+  content: Server side ofcource.. Mail shall be stored, sorted, spam tagged and viruschecked
+    on the server side. It simplifies life for people that uses several mail clients
+    (webmail, kmail and outlook depending on what you do for the moment).
+- id: 18005
+  author: wvengen
+  author_email: nope@example.net
+  author_url: http://willem.engen.nl/
+  date: !binary |-
+    MjAwOC0wMy0yNyAxNzo0MzozNiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNjo0MzozNiArMDAwMA==
+  content: ! 'Short answer: MDA
+
+
+    Long answer:
+
+
+    We''re moving towards multiple clients with varying ''thickness'' from phone to
+    mainframe. It would be ideal to be able to access mail from any place, which requires
+    a central server. This means IMAP is a preferable solution. Thin clients have
+    thin resources, which means they should not filter mail (they even may not want
+    to receive all mail, considering space and bandwidth limitations). Neither do
+    you want to configure a dozen of MUAs for filtering spam and mailinglists. So:
+    I''d say MDA filtering is the way to go.
+
+
+    Maybe we need another distinction: the mail receiver which receives mail for a
+    specific email address (MDA), and a mail filterer that looks at mails and decides
+    what to do with it (MPA, for mail processing agent). This brings flexibility to
+    deal with providers not  or imperfectly delivering filtering capabilities. All
+    clients would connect to the MPA via IMAP (or possibly POP).'
+- id: 18007
+  author: Jan
+  author_email: yehaa@gmx.de
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxODoxNjowNSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxNzoxNjowNSArMDAwMA==
+  content: ! "In my opinion, the filtering would best be done on the server.\n\nAs
+    it's kind of... nonstandardized how this is done I can live with the way thunderbird
+    does this (download Mailheader, filter, move mail if necessary). \n\nWith KMail
+    this isn't really possible, as KMail will, as soon as there are filters set for
+    IMAP-Accounts: Download new mail, delete it from the server, check for filters,
+    reupload the mail if it doesn't need to be filtered. This behaviour makes KMail
+    unusable with filters, if you want to use IMAP-filters.\n\nThe IMHO best way would
+    be filters set by MUA on the server, which can be read and altered by another
+    MUA. So it doesn't matter where I am, i always have the same filters without needing
+    SSH/SCP to alter procmailrc-files or whatever."
+- id: 18012
+  author: jkt
+  author_email: jkt@gentoo.org
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAxOTo0MTo0MSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxODo0MTo0MSArMDAwMA==
+  content: ! 'MDA, for that''s how things are supposed to work and because we have
+    IMAP that supports multiple mail folders.
+
+
+    Think about it -- your mail server is by design a centralized application, as
+    you have all your mails on one place. Thanks to that, you can access your mails
+    form anywhere, with any compliant client. It makes perfect sense to attach rules
+    governing what happens with incoming messages to the same data store.
+
+
+    Of course, if you use some nice protocol for managing your filtering rules (like
+    Sieve/managesieve), any compliant client will let you modify your filtering moods.
+
+
+    Anyway, if you ever access your mails from more than one place (most people do),
+    you want filtering rules stored on your mail server.'
+- id: 18013
+  author: muj
+  author_email: muj@yahoo.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yNyAyMDo0MDowMSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAxOTo0MDowMSArMDAwMA==
+  content: ! 'There should be no folders :)
+
+
+    Mail client can simply make automatic views, based on mailing-list headers (see
+    opera mail).'
+- id: 18014
+  author: alfmatos
+  author_email: alfredo.matos@digitalself.org
+  author_url: http://www.digitalself.org
+  date: !binary |-
+    MjAwOC0wMy0yNyAyMTowMzozNCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAyMDowMzozNCArMDAwMA==
+  content: ! 'At the server, definitely.
+
+
+    A common use case that kills me, is that I have a couple of Evolution delivery
+    rules on an IMAP account, but when I access that account through webmail, all
+    hell breaks loose and I have to parse a couple hundred messages by hand... Not
+    pretty (damned procmail/courier-imap bugs that break some rules :) ).'
+- id: 18020
+  author: Boyd Stephen Smith Jr.
+  author_email: bss03@volumehost.net
+  author_url: http://iguanasuicide.org
+  date: !binary |-
+    MjAwOC0wMy0yOCAwMDoxOTo0OCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yNyAyMzoxOTo0OCArMDAwMA==
+  content: It should be done at the server, so it's not dependent on the MUA I'm using.  I
+    could be using webmail, my phone, my laptop, or my desktop; I shouldn't have maintain
+    filters in 4 different places.  It should also be configurable from any of them.  IMAP4
+    + Seive for the win.  That said, a high-quality MUA may want to ALSO provide client-size
+    filtering -- in the case where you want to have similar/same rules got mail coming
+    through multiple servers or when you need to do something automatically that touches
+    multiple servers or that the server is unwilling or unable to do for you.
+- id: 18021
+  author: Emmet Hikory
+  author_email: persia@ubuntu.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yOCAwMToxNToyMCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yOCAwMDoxNToyMCArMDAwMA==
+  content: ! "The answer to ths question is \"Yes\".  Both the MDA and the MUA should
+    have a means of pushing mail into folders.  When the MDA is delivering mail, it
+    should check the user configuration, and deliver it in the way the user selected.
+    \ When the user later reads the mail, they may want to change things, or use their
+    MUA to reorganise the contents of the folders in some way.\n\nFrom the perspective
+    of the IMAP server, there is no meaningful difference between manual and automated
+    mail filing as performed by the client, so MUA changes are inherently safe, and
+    will be visible to alternate MUAs using the same IMAP store.  On the other hand,
+    these changes must be submitted and confirmed over the network, so such an approach
+    is inherently slow, despite other advantages, and may cause user confusion if
+    the MUA performing changes is temporarily offline or multiple MUAs attempt to
+    apply the same automated filters.\n\nFrom the perspective of the IMAP client,
+    there is no meaningful difference in updates made by the MDA as compared to another
+    MUA pointing at the same store, so MDA changes are inherently safe, and will be
+    visible to all MUAs using the same IMAP store.  On the other hand, these changes
+    are typically somewhat invisible to the user, and so strong automation can be
+    frustrating, for instance when the user moves a message manually and finds that
+    it has been put back by the server (although any case of two competing IMAP clients
+    can cause this).\n\nIn an ideal world, there are three types of interesting IMAP
+    client.  The MDA (which may use something other than IMAP to update the store),
+    which imposes initial filtering rules on received mail, and drops the mail as
+    \"new\" in the corresponding folders.  The MUA which allows the user to move mail
+    however they want (although this should be manual or once-off scripted) to match
+    their preferences.  The MPA (Mail Processing Agent), which allows the user to
+    impose automated rules for mail filtering (e.g. messages over three months old
+    migration from the foo-list to the foo-list-archive folder), and acts as an IMAP
+    client.\n\n    Note that a given tool may act in several of these roles.  A \"full-featured\"
+    client might have a means by which it can pull messages by various means (POP,
+    RSS, etc.), and perform an MDA role to insert these into the IMAP store; a means
+    by which the user can configure deep automation as to how their mail should be
+    presented, acting as an MPA; and a means by which the user can read and review
+    mail.  Leaving such a client active somewhere should allow the user to benefit
+    from the IMAP store from any MUA.\n\n    On the other hand, such a tool carries
+    a high overhead, an other users may wish to handle initial population of the IMAP
+    store with a traditional MDA, perhaps in combination with a traditional remote
+    sync tool (e.g. fetchmail).  Automation would be handled by a low-footprint client
+    with highly-reliable power / network-access / etc.  User interaction with mail
+    would be with a variety of IMAP clients as the user may find convenient (which
+    may include the \"full-featured\" client described above, with MDA and MPA functions
+    inactive."
+- id: 18032
+  author: tadeusz
+  author_email: yess@hell.org.pl
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yOCAwOToxOTo0MSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yOCAwODoxOTo0MSArMDAwMA==
+  content: ! 'Client-side. It''s more user-configurable. Server-side can apply one
+    general policy (example: each X-Maillist: whatever goes to separate folder), whereas
+    user can configure his/her client to whatever sorting, automating and organizing
+    methodologies (think GTD and such) he/she might choose.
+
+
+    Its Delivery -&gt; sorting -&gt; reading kind of workflow, where the first step
+    is blackbox.'
+- id: 18034
+  author: Daniel Hahler
+  author_email: blogs-2008@thequod.de
+  author_url: http://daniel.hahler.de/
+  date: !binary |-
+    MjAwOC0wMy0yOCAxMTo0MjowMSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yOCAxMDo0MjowMSArMDAwMA==
+  content: ! "You may want to look at POPFile, which uses a naive Bayes classifier
+    to filter mail and not just allows the typical \"spam\" and \"ham\" categories,
+    but supports as much buckets/categories as you wish.\r\n\r\nIt can act as a proxy
+    for POP3 (this would be filtering on the client side), but also supports IMAP:
+    it regularly accesses the IMAP server and checks the relevant folders (e.g. INBOX)
+    for new mail, classifies it and moves it to the folder configured for the determined
+    bucket.\r\nThe user can re-classify mails by moving them into another IMAP folder
+    associated with a bucket.\r\nE.g., when a mail gets classified as \"personal\",
+    but is really \"work\", you can move it from the folder associated with the \"personal\"
+    bucket to the one for \"work\" and POPFile will re-classify it.\r\n\r\nThis works
+    really great!\r\n\r\nPOPFile for IMAP should run as a daemon on the IMAP server
+    itself, if possible (for bandwidth/performance reasons), but it's possible to
+    have it on a remote system, e.g. when using it with GMail's IMAP interface.\r\n\r\nSee
+    http://getpopfile.org/"
+- id: 18054
+  author: berkus
+  author_email: berkus@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMy0yOSAwMjowMzowMiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMy0yOSAwMTowMzowMiArMDAwMA==
+  content: Server, for obvious reasons.
+- id: 18478
+  author: sim0n
+  author_email: g.toth@trypill.org
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wNC0xMyAxMTo0MjoxOCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOC0wNC0xMyAxMDo0MjoxOCArMDEwMA==
+  content: ! "IMO kmail should definitively support client side filtering, exactly
+    as it does with pop3.\r\n And there shouldn't be a difference between pop3 and
+    imap filtering.\r\nI love kmail but because imap filtering was completely broken
+    in 3.5.7 and I started using imap exclusively on several accounts, that made me
+    switch to thunderbird which isn't the best solution but it does just work..."
+permalink: question
+---
+<p>In your opinion, should putting incoming mail in the right folders on an IMAP server dependent on say, the mailing list it corresponds to, be the job of the MDA or the MUA? (The "server" or the "client")</p>

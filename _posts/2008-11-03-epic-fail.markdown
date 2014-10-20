@@ -1,0 +1,126 @@
+---
+layout: post
+status: publish
+published: true
+title: Epic Fail
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 168
+wordpress_url: http://www.sourceguru.net/?p=168
+date: !binary |-
+  MjAwOC0xMS0wMyAyMDo1Njo1OCArMDAwMA==
+date_gmt: !binary |-
+  MjAwOC0xMS0wMyAxOTo1Njo1OCArMDAwMA==
+categories:
+- Personal
+tags: []
+comments:
+- id: 29157
+  author: ikkefc3
+  author_email: vfeitze@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMS0wMyAyMTo0OToxMCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMS0wMyAyMDo0OToxMCArMDAwMA==
+  content: High noises from the PSU usally mean the capacitors are damaged...
+- id: 29158
+  author: Andreas
+  author_email: ahartmetz@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMS0wMyAyMTo1MDozOCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMS0wMyAyMDo1MDozOCArMDAwMA==
+  content: ! "Well, switching power supplies have a working frequency in the range
+    of maybe 10 to 200 kHz. Ideally it should be outside the audible spectrum. It's
+    not necessarily a sign of hardware failure to hear high-pitched noise coming out
+    of it - if you leave out failure to not annoy you :)\r\nThat said, buying a high
+    quality / high efficiency PSU is a good investment."
+- id: 29159
+  author: Joshua Kugler
+  author_email: joshua@joshuakugler.com
+  author_url: http://joshuakugler.com/
+  date: !binary |-
+    MjAwOC0xMS0wMyAyMTo1Mzo1OSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMS0wMyAyMDo1Mzo1OSArMDAwMA==
+  content: You don't per chance have a hard drive that has a "Master" settting and
+    a "single" setting, do you?  Sometimes, hard drives like that actually require
+    you to tell them they're the only drive on the channel, as opposed to the Master
+    on the channel.
+- id: 29160
+  author: David Edmundson
+  author_email: david@davidedmundson.co.uk
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMS0wMyAyMTo1NjoxMyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMS0wMyAyMDo1NjoxMyArMDAwMA==
+  content: Some hard drives have different jumper settings for "Master" and "Single
+    Drive" you might want to check all your jumpers on the two "good" drives.
+- id: 29161
+  author: Stefano F. (tacone)
+  author_email: tacone@gmail.com
+  author_url: http://www.stefanoforenza.com
+  date: !binary |-
+    MjAwOC0xMS0wMyAyMjoxODowNiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMS0wMyAyMToxODowNiArMDAwMA==
+  content: ! "I've recently lost all my data upgrading to Intrepid.\r\nSo this w/e
+    I was left with the LiveCd only and a contract work (a website) to finish.\r\nNice
+    to be said, I have been able to do that just with the live cd, using gedit and
+    nautilus sftp capabilities. Very nice !\r\nI have a eeepc, but the livecd felt
+    just fine :)"
+- id: 50245
+  author: ISIK TABELA
+  author_email: info@isiktabela.com
+  author_url: ''
+  date: !binary |-
+    MjAxMC0wMi0wNCAyMzo1Njo0MSArMDAwMA==
+  date_gmt: !binary |-
+    MjAxMC0wMi0wNCAyMjo1Njo0MSArMDAwMA==
+  content: ! 'Nice to be said, I have been able to do that just with the live cd,
+    using gedit and nautilus sftp capabilities. Very nice !
+
+    I have a eeepc, but the livecd felt just fine :)'
+- id: 369203
+  author: Madeleine Musacchia
+  author_email: 45632625Tefertiller@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAxMy0xMC0yOSAxNToyNDoxNSArMDAwMA==
+  date_gmt: !binary |-
+    MjAxMy0xMC0yOSAxNToyNDoxNSArMDAwMA==
+  content: In case if you are rookie to find available domain names then you are certainly
+    a Domainbie
+- id: 521539
+  author: fifa world cup tickets brazil
+  author_email: carmelo.cormack@gmail.com
+  author_url: http://chrisreckord.com/blog/fifa-world-cup-goalscorer-odds
+  date: !binary |-
+    MjAxNC0wNC0xOCAxMjozMTozOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wNC0xOCAxMTozMTozOSArMDEwMA==
+  content: ! "World 's best leading Nationwide football groups are \r\ncategorized
+    into eight groups. The groups of 32 groups \r\nare uncovered in an celebration
+    of FIFA which was organized in Costa do Sauipe \r\nResort, Bahia, Brazil. For
+    the 2nd time, Brazil acquired the \r\nchance to host world cup right after 1950.\r\nAll
+    competent 32 national teams are divided into 8 groups with 4 teams each.\r\nBefore,
+    FIFA introduced team Pot &amp; now top 32 are grouped for FIFA World Cup 2014.\r\nSo
+    listed here are the teams of 2014 World Cup On Friday, the attract for the 2014
+    Fifa World Cup \r\nwill take spot at the Costa do Sauipe resort in Brazil."
+permalink: epic-fail
+---
+<p>So, after finding out that that nasty noise my PC's been making was actually a hard drive failing (I knew it was, but thought I'd fix it now, while I'm doing my refresher) So, after a few failed install attempts with lovely kernel messages telling me that the disk was failing horribly, I thought, ok, I'll shut down, unplug the hard drive, and get on without it.</p>
+<p>Ha, if only I were so lucky. Seems that for some reason, my PC, having had 2 hard drives connected to the primary IDE channel for the last... oh, 4 years? doesn't like it - and now, my primary IDE channel is unusable (or at least, nothing is being detected from it :()</p>
+<p>So, that leaves me with 1 hard drive.... at least it's the bigger of the three. However, my PSU has also developed a high pitched squealing noise, which to be quite honest, sounds dangerous.</p>
+<p>So, it's with some regret that I say that, I'm going to be out of commission for a while. I still, however, have my eeePC available, which is a blessing, as it means I'll still be able to surf and access email.</p>
+<p>However, with apathy out of action, and with christmas around the corner, and lots of bills to pay, it's unlikely to be until around March that I have enough in the coffers to pay for a replacement.</p>
+<p>Thank god for the eeePC</p>

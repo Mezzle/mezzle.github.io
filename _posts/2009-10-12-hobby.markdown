@@ -1,0 +1,94 @@
+---
+layout: post
+status: publish
+published: true
+title: My Hobby...
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 278
+wordpress_url: http://www.sourceguru.net/?p=278
+date: !binary |-
+  MjAwOS0xMC0xMiAyMDoyNDo1OSArMDEwMA==
+date_gmt: !binary |-
+  MjAwOS0xMC0xMiAxOToyNDo1OSArMDEwMA==
+categories:
+- Personal
+tags: []
+comments:
+- id: 44439
+  author: First Last
+  author_email: name@example.com
+  author_url: ''
+  date: !binary |-
+    MjAwOS0xMC0xMiAyMDo1Nzo1NCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMC0xMiAxOTo1Nzo1NCArMDEwMA==
+  content: I sense a huge opportunity for "Bloodninja moments".
+- id: 44442
+  author: blablabla
+  author_email: omegla@xapek.org
+  author_url: http://xapek.org/svn/common/omegle/
+  date: !binary |-
+    MjAwOS0xMC0xMiAyMjoxMzo0NCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMC0xMiAyMToxMzo0NCArMDEwMA==
+  content: they're bots, fight back now!
+- id: 44446
+  author: CiarÃ¡n
+  author_email: general.mooney@googlemail.com
+  author_url: http://mooney.wibbleh.com
+  date: !binary |-
+    MjAwOS0xMC0xMiAyMzo1NjoxMyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMC0xMiAyMjo1NjoxMyArMDEwMA==
+  content: That was me, you git.
+- id: 44458
+  author: Bugsbane
+  author_email: bugsbane@gmail.com
+  author_url: http://kubuntulover.blogspot.com
+  date: !binary |-
+    MjAwOS0xMC0xMyAwNToyNDowNiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMC0xMyAwNDoyNDowNiArMDEwMA==
+  content: ! "LMAO. Dang planet KDE needs more weirdness like this! Manatee! Manatee!
+    Manatee! (They're gentle cows of the sea, you know).\r\n\r\n*disconnects*"
+- id: 44467
+  author: Adrian von Bidder
+  author_email: avbidder@fortytwo.ch
+  author_url: http://fortytwo.ch/
+  date: !binary |-
+    MjAwOS0xMC0xMyAwODoxMzowMiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMC0xMyAwNzoxMzowMiArMDEwMA==
+  content: -ETOOMUCHXKCD
+- id: 316940
+  author: wlodarczykczakijewlive.blogspot.com
+  author_email: marcelrendon@freenet.de
+  author_url: http://wlodarczykczakijewlive.blogspot.com/
+  date: !binary |-
+    MjAxMy0wNi0xOSAxODo0MDo1NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0wNi0xOSAxNzo0MDo1NiArMDEwMA==
+  content: ! "I would recommend something basic but high in quality like Everlast
+    Durahide headgear.\r\n\r\nThey not only lend their minds to you, but also work
+    out with you \r\nto teach you the right moves. t get angry, who would protect
+    the \r\npeople you care about or stand up for the things you believe in."
+- id: 364238
+  author: tv stands for flat screens
+  author_email: charlinenixon@yahoo.com
+  author_url: http://www.alltvstandsforflatscreens.com/tv-stands-for-flat-screens/
+  date: !binary |-
+    MjAxMy0xMC0xOCAwMTozNToxMiArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0xMC0xOCAwMDozNToxMiArMDEwMA==
+  content: Greatt post. I am dealing with some of these issues as well..
+permalink: hobby
+---
+<p>Freaking out the freaks on Omegle.</p>
+<p><a href="http://www.sourceguru.net/wp-content/uploads/2009/10/Omegle.png"><img class="alignnone size-medium wp-image-279" title="Omegle" src="http://www.sourceguru.net/wp-content/uploads/2009/10/Omegle-300x170.png" alt="Omegle" width="300" height="170" /></a></p>

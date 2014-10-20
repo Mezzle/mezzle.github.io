@@ -1,0 +1,163 @@
+---
+layout: post
+status: publish
+published: true
+title: I want one...
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 114
+wordpress_url: http://www.sourceguru.net/archives/114
+date: !binary |-
+  MjAwOC0wMS0yMyAyMToyMjowMiArMDAwMA==
+date_gmt: !binary |-
+  MjAwOC0wMS0yMyAyMDoyMjowMiArMDAwMA==
+categories:
+- Geeky
+tags:
+- fun
+- dancing
+- japanese beat doll
+comments:
+- id: 15818
+  author: prego
+  author_email: prego@pregos.info
+  author_url: http://blog.pregos.info
+  date: !binary |-
+    MjAwOC0wMS0yMyAyMTo0NToyOSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yMyAyMDo0NToyOSArMDAwMA==
+  content: /me, too!!
+- id: 15819
+  author: Annonymouse
+  author_email: anonon@mailinator.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMS0yMyAyMTo1MDozMSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yMyAyMDo1MDozMSArMDAwMA==
+  content: ! 'Keepon (the robot) is actually quite sophisticated.  Think Kismet, but
+    cuter.  There is a whole page describing the research with/on Keepon and another
+    robot (Infanoid) by the same group.
+
+
+    http://univ.nict.go.jp/people/xkozima/infanoid/robot-eng.html'
+- id: 15820
+  author: dexae
+  author_email: venraiker@gmail.com
+  author_url: http://www.venraiker.com
+  date: !binary |-
+    MjAwOC0wMS0yMyAyMjowNDozNSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yMyAyMTowNDozNSArMDAwMA==
+  content: And big music video http://www.youtube.com/watch?v=nPdP1jBfxzo
+- id: 15821
+  author: Mez
+  author_email: martin@sourceguru.net
+  author_url: http://
+  date: !binary |-
+    MjAwOC0wMS0yMyAyMjoyODo1NSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yMyAyMToyODo1NSArMDAwMA==
+  content: hehe, at first I thought it was just a lil dancing thing - like-  remember
+    those dancing flowers? Or I think I had a dancing coke can ... o_O had fun taking
+    that apart, but actually watching these videos, and reading up on the thing, it's
+    even cooler than I thought - I REALLY want one now
+- id: 15822
+  author: Fred Morcos
+  author_email: fred.morcos@gmail.com
+  author_url: http://fredmorcos.blogspot.com
+  date: !binary |-
+    MjAwOC0wMS0yMyAyMjo1NDo0NiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yMyAyMTo1NDo0NiArMDAwMA==
+  content: LOL@ "If you are viewing this on a planet" =D
+- id: 15823
+  author: Mez
+  author_email: martin@sourceguru.net
+  author_url: http://
+  date: !binary |-
+    MjAwOC0wMS0yMyAyMzowOTo0NiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yMyAyMjowOTo0NiArMDAwMA==
+  content: I don't get the joke?
+- id: 15824
+  author: s
+  author_email: scott.todd@lycos.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMS0yNCAwMDoxMjozNiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yMyAyMzoxMjozNiArMDAwMA==
+  content: Cool.  Fred, I had to click on the "here" link from "planet.ubuntu.com"
+    because the vid wasn't embedded.
+- id: 15826
+  author: gouki
+  author_email: gouki@ubuntu.com
+  author_url: http://goukihq.org
+  date: !binary |-
+    MjAwOC0wMS0yNCAwMToxNjo0NSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yNCAwMDoxNjo0NSArMDAwMA==
+  content: ! 'Heheh! Great find.
+
+
+    Too bad they''re not for sale:
+
+
+    "Keepon is a research platform and is not commercially available at this time."
+
+
+    Source: http://beatbots.org/about/'
+- id: 15827
+  author: Yann
+  author_email: yann.hamon@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMS0yNCAwMTo1Mzo0MSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yNCAwMDo1Mzo0MSArMDAwMA==
+  content: Omg no I don't want ONE i want 100! Imagine a group of hundred of these
+    dancing at the same time, how cool that would be... *loves it* :D
+- id: 15828
+  author: Mez
+  author_email: martin@sourceguru.net
+  author_url: http://
+  date: !binary |-
+    MjAwOC0wMS0yNCAwMjowNDowMyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yNCAwMTowNDowMyArMDAwMA==
+  content: ! 'yellowsnomandance.com ?
+
+
+    Would be amusing though - make a Keepon rave :D'
+- id: 15830
+  author: Jason
+  author_email: cjac76@comcast.net
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMS0yNCAwNDo1Mjo0NiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yNCAwMzo1Mjo0NiArMDAwMA==
+  content: Bill Clinton and Barack Obama better watch out!
+- id: 15833
+  author: ethana2
+  author_email: ethana2@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wMS0yNCAwODo0MTozNiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0wMS0yNCAwNzo0MTozNiArMDAwMA==
+  content: ! 'How hard would it be to make one of these things in Blender?
+
+
+    ^_^'
+permalink: i-want-one
+---
+<p><object type="application/x-shockwave-flash" data="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1752868&fullscreen=1" width="480" height="360" ><param name="allowfullscreen" value="true" /><param name="movie" quality="best" value="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1752868&fullscreen=1" /></object><br />
+If you are viewing this on  a planet, you may need to click <a href="http://www.sourceguru.net/archives/114">here</a> to view  the video</p>

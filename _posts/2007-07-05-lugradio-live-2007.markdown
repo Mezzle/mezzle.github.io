@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: LUGRadio Live 2007
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 64
+wordpress_url: http://www.sourceguru.net/archives/64
+date: !binary |-
+  MjAwNy0wNy0wNSAyMDoxOTo0OSArMDEwMA==
+date_gmt: !binary |-
+  MjAwNy0wNy0wNSAxOToxOTo0OSArMDEwMA==
+categories:
+- Personal
+- Geeky
+tags: []
+comments: []
+permalink: lugradio-live-2007
+---
+<p><center> <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/NOFNIZbBM-g" ></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/NOFNIZbBM-g" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br/><br />
+<img src="http://farm1.static.flickr.com/185/480019353_f3032cef6c_m.jpg" alt="LUGRadio Live 2006 - Exhibitor" /></p>
+<p>Yes, that's right, I'll be at LRL2007, giving away a bunch of Kubuntu CDs, and hopefully *crosses fingers* demoing it for people if I can find a spare laptop or two (The person who was meant to be supplying the laptops for this let me down!)</p>
+<p>See you there!</p>
+<p></center></p>

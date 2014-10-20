@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: Bored
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 26
+wordpress_url: http://www.sourceguru.net/archives/26
+date: !binary |-
+  MjAwNi0wNS0yNyAwNzoyOTowNyArMDEwMA==
+date_gmt: !binary |-
+  MjAwNi0wNS0yNyAwNjoyOTowNyArMDEwMA==
+categories:
+- Personal
+- Geeky
+- Interweb
+tags: []
+comments:
+- id: 33546
+  author: Source Guru &raquo; Blog Archive &raquo; Cheese Nibbles and Podcasts
+  author_email: ''
+  author_url: http://www.sourceguru.net/archives/198
+  date: !binary |-
+    MjAwOS0wMy0wNyAxNzoyMTowMCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0wMy0wNyAxNjoyMTowMCArMDAwMA==
+  content: ! '[...] So, fanatical readers of my blog (are there any?) may remember
+    a long time back that I got bored and wrote a little script that amused me. [...]'
+- id: 38050
+  author: Gary
+  author_email: thomg016@wsgfl.org.uk
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wNi0wMyAxMDo0NTozMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNi0wMyAwOTo0NTozMSArMDEwMA==
+  content: Interesting to a point, got bored half way through after i had already
+    come here bored. (ironic.... huh!)
+- id: 511987
+  author: Regarder Divergente vk
+  author_email: lolakaawirn@freenet.de
+  author_url: http://streamingvfdivx.blogspot.com/
+  date: !binary |-
+    MjAxNC0wNC0xMSAyMToyMjoxMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wNC0xMSAyMDoyMjoxMCArMDEwMA==
+  content: ! "Thanks , I have just been searching for info approximately this topic
+    for ages and \r\nyours is the best I have discovered till now. But, what about
+    the bottom line?\r\nAre you positive in regards to the source?"
+permalink: bored
+---
+<p>It's not often that I get so bored I start actually doing something.</p>
+<p>Usually, I'll just end up moaning and whining at people on <em>[Insert name of preffered IM protocol here]</em></p>
+<p>But, you know - I actually did something today. Nothing that's really of any use to anyone... and nothing that's really worthwhile for anything other than my own personal amusement - but hey - I took an hour or so - I hacked away - I played around a little, and <a href="http://www.cheesenibbles.com/" target="_blank">this</a> is what I came up with - Impressive huh? Didn't think so - but it kept me amused for a while. As I hope will some of the comments that are left :D</p>
+<p> However, in writing the code, it did take me on a trip down memory lane, back to when I first got into web programming. My first ever website I set up over on tripod, back when I was learning HTML and thought marquee's were cool. (though thankfully I never thought flashing text was!)</p>
+<p>Back then - one of the websites I visited regularly was <a href="http://www.dogbomb.co.uk/">dogbomb</a> (NSFW) - and I still do - on occasion - it has a couple of interesting forums I enjoy reading through (particularly the jokes forum - check it out) and has a few.... how shall I say... intriguing (?) topics on there.</p>
+<p>Anyway - I've strayed from the point. Way back then - Simon (the webmaster) had a little thing you could click on and change a bit of writing on his main page, which I found very very cool (remember I was a newbie back then). He called this graffitti. Well, being the eager little beaver I was... I wanted it. I wanted it for my own, and, that's how I got into it - I pored the web, yahoo searched, and eventually taught myself perl, and managed to get my own copy up and working. Of course, being a "featured site" at the time on dogbomb, I got a hell of a lot of abuse for "ripping" the code, but - I knew that I'd done it all myself - not stolen anything and well.... I was proud - it was the first time I'd sat down and programmed anything decent (apart from a few really basic RPGs on my old MSX!) and then I started getting into other things - forum software etc etc etc etc.</p>
+<p>It all led me to where I am today.</p>
+<p>Thing is - with all the innovations already being made - what can we do except copy them? Ok. it may be a different way of doing the same thing, but if it wasnt for the fact that there are so many restrictive licences, patents, etc etc out there, then surely we wouldn't need all this re-making of things.... GnuPG and PGP for example... I don't see the point in any of it. Which is why I advocate Open Source Software. Lets all work together instead of duplicating effort - and maybe we can move faster!</p>

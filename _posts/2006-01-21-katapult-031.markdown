@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Katapult 0.3.1
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 6
+wordpress_url: http://www.sourceguru.net/archives/6
+date: !binary |-
+  MjAwNi0wMS0yMSAyMzo0ODowNyArMDAwMA==
+date_gmt: !binary |-
+  MjAwNi0wMS0yMSAyMjo0ODowNyArMDAwMA==
+categories:
+- Geeky
+- Linux
+tags: []
+comments: []
+permalink: katapult-031
+---
+<p>Well... it's been a long time in the coming - but we've finally managed to make the first release of katapult - a program we stole from another developer (with his permission of course) and developed specifically for kubuntu.</p>
+<p>The Feedback for it has been outstanding so far (<a title="katapult on kde-apps.org" href="http://www.kde-apps.org/content/show.php?content=33985">see the page on kde-apps.org</a>) and it seems to be going well. It's amazing how such a simple program can be so useful.</p>
+<p>I'm glad to be part of the katapult team. It's great to be able to help people, and it's a very cool application - I find it very hard when it's not around (when I was in windows the other day - I tried to run firefox - I  tried alt+space, alt+f2 alt+f1 before I finally realised it was windows and none of those shortcuts worked!) It's amazing how dependent I've become upon it.</p>
+<p>Anyway - I can't wait for the next release - hopefully it'll be even more uber than this one :D</p>
+<p>Oh yeah - and hopefully we'll be seeing it as my first debian package soon too ;)</p>

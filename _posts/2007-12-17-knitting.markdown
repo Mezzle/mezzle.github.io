@@ -1,0 +1,80 @@
+---
+layout: post
+status: publish
+published: true
+title: Knitting
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 100
+wordpress_url: http://www.sourceguru.net/archives/100
+date: !binary |-
+  MjAwNy0xMi0xNyAxMzo1ODo1NSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNy0xMi0xNyAxMjo1ODo1NSArMDAwMA==
+categories:
+- Personal
+tags: []
+comments:
+- id: 15342
+  author: Chani
+  author_email: chanika@gmail.com
+  author_url: http://chani.wordpress.com
+  date: !binary |-
+    MjAwNy0xMi0xNyAxNDo1NTo0MyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNy0xMi0xNyAxMzo1NTo0MyArMDAwMA==
+  content: ! 'and here I thought it was ''perl''. ;)
+
+
+
+    btw, there''s something messed up about your blog page, it''s got a second scrollbar.
+    sorta like it''s in a frame that''s approximately the size of the khtml view it''s
+    in, and then there''s another page worth of white below that.'
+- id: 15343
+  author: andylockran
+  author_email: andy@zrmt.com
+  author_url: http://blog.zrmt.com
+  date: !binary |-
+    MjAwNy0xMi0xNyAxODoxMzoxNiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNy0xMi0xNyAxNzoxMzoxNiArMDAwMA==
+  content: Is that the Brummie version?
+- id: 15345
+  author: Mez
+  author_email: martin@sourceguru.net
+  author_url: http://
+  date: !binary |-
+    MjAwNy0xMi0xNyAyMDoxMDowNyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNy0xMi0xNyAxOToxMDowNyArMDAwMA==
+  content: andy, http://dictionary.reference.com/browse/purl
+- id: 15348
+  author: Wolfger
+  author_email: wolfger@gmail.com
+  author_url: http://wolfger.wordpress.com/
+  date: !binary |-
+    MjAwNy0xMi0xNyAyMjowMDoxNyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNy0xMi0xNyAyMTowMDoxNyArMDAwMA==
+  content: What is this, the Ubuntu Knitting Society? Python 1, Perl 2?
+- id: 15352
+  author: Tom
+  author_email: tom@oketchup.co.uk
+  author_url: ''
+  date: !binary |-
+    MjAwNy0xMi0xNyAyMzozMTo0MSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNy0xMi0xNyAyMjozMTo0MSArMDAwMA==
+  content: ! 'Perl/Purl: There is more than one way to spell it ;)'
+permalink: knitting
+---
+<p><a href="http://www.advogato.org/person/Burgundavia/diary.html?start=172">Corey</a>,</p>
+<p>1) I'm a PHP developer<br />
+2) I know barely anything about knitting<br />
+3)  It's actually "purl" :P</p>

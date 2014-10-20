@@ -1,0 +1,74 @@
+---
+layout: post
+status: publish
+published: true
+title: Pandora
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 49
+wordpress_url: http://www.sourceguru.net/archives/49
+date: !binary |-
+  MjAwNi0xMS0wMiAxMzoyNjowMCArMDAwMA==
+date_gmt: !binary |-
+  MjAwNi0xMS0wMiAxMjoyNjowMCArMDAwMA==
+categories:
+- Personal
+tags: []
+comments:
+- id: 1534
+  author: giz404
+  author_email: giz404@yahoo.fr
+  author_url: http://giz404.freecontrib.org/
+  date: !binary |-
+    MjAwNi0xMS0wMiAxMzo1MDo1NyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0wMiAxMjo1MDo1NyArMDAwMA==
+  content: I've been using Pandora for a while, but it plays the same songs a bit
+    too often if you use it for a long time. I have the feeling that Last.fm proposes
+    a larger selection...
+- id: 1537
+  author: abi
+  author_email: abi@grinser.de
+  author_url: ''
+  date: !binary |-
+    MjAwNi0xMS0wMiAxNDoxODozMiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0wMiAxMzoxODozMiArMDAwMA==
+  content: ! "yeah, give last.fm a try, im sure youll get as \naddicted to it as i
+    am :)"
+- id: 1564
+  author: John
+  author_email: efxaudio@yahoo.com
+  author_url: ''
+  date: !binary |-
+    MjAwNi0xMS0wMyAxODozMDo1NCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0wMyAxNzozMDo1NCArMDAwMA==
+  content: There's also Soundflavor DJ which does what Pandora does but from your
+    own music collection.  Makes playlists, recommends new music, and also recommends
+    local area concerts.  Works really well.
+- id: 636109
+  author: north american vape reviewlnorth american vape eciglnorth american vape
+  author_email: LymonMaize152@googlemail.com
+  author_url: http://yoomilee.wordpress.com/2006/03/03/day-5-dhordo-and-the-salt-desert/
+  date: !binary |-
+    MjAxNC0wNy0wNiAwODowNDozMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wNy0wNiAwNzowNDozMCArMDEwMA==
+  content: That you allow it to become seem simple together with your business presentation
+    but I to discover this subject matter to be definitely something which I do think
+    We would by no means fully grasp. It sort of feels as well elaborate and also
+    substantial to me. We're impatient with your next article, I'll aim to find the
+    cling of it!
+permalink: pandora
+---
+<p>I just discovered a neat little app called "Pandora"</p>
+<p>This app loads in a web browser and asks you for an artist name or a song title - and then goes and finds different music for you through the "Music Genome Project"</p>
+<p>It's a very cool app - and free to use ;) It's already introduced me to 2 bands who I want to go out and buy the albums of ;)</p>
+<p><a href="http://www.pandora.com">http://www.pandora.com/</a></p>

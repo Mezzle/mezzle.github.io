@@ -1,0 +1,145 @@
+---
+layout: post
+status: publish
+published: true
+title: Grrrr....
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 52
+wordpress_url: http://www.sourceguru.net/archives/52
+date: !binary |-
+  MjAwNi0xMi0xNCAxODo1MjoyMyArMDAwMA==
+date_gmt: !binary |-
+  MjAwNi0xMi0xNCAxNzo1MjoyMyArMDAwMA==
+categories:
+- Personal
+- Geeky
+- Linux
+- Ubuntu
+- Rants
+- Rants
+tags: []
+comments:
+- id: 2287
+  author: Colin Watson
+  author_email: cjwatson@ubuntu.com
+  author_url: ''
+  date: !binary |-
+    MjAwNi0xMi0xNiAxMTowMzo1MSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMi0xNiAxMDowMzo1MSArMDAwMA==
+  content: Trying to use gcc (as opposed to g  ) as a C   compiler can't be helping,
+    though that may not be the underlying problem.
+- id: 4150
+  author: Source Guru returns at Source Guru
+  author_email: ''
+  author_url: http://www.sourceguru.net/archives/55
+  date: !binary |-
+    MjAwNy0wNC0xNSAxNDoyOTo0MCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0wNC0xNSAxMzoyOTo0MCArMDEwMA==
+  content: ! '[...] Well anyway, in Source Guru&#8217;s past implementation, I used
+    ISPConfig which did exactly what I wanted, to an extent. It automated the creation
+    of new domains, including mail, DNS etc etc. However, it lacked in a few features.
+    It was horridly coded, and well, cause me more hassle than was worth (espescially
+    when trying to upgrade) [...]'
+- id: 298326
+  author: Terry Dilisio
+  author_email: Vicente_Hielscher@yahoo.com
+  author_url: ''
+  date: !binary |-
+    MjAxMy0wNC0wMiAyMzowMDoyNiArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0wNC0wMiAyMjowMDoyNiArMDEwMA==
+  content: I Love Story's about alpha males! The Protectiveness. How they are so tuff
+    but when the right women enters their life that all flies out the window! lol!I
+    love all your books! I can't wait until this book comes out and also Tempted!
+    I really love that series too!!Keep up the Great Writing!!
+- id: 298765
+  author: Terry
+  author_email: csavucoz@gmail.com
+  author_url: http://www.rzone.ro/
+  date: !binary |-
+    MjAxMy0wNC0wNCAxNToyNzo1NyArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0wNC0wNCAxNDoyNzo1NyArMDEwMA==
+  content: RZONE.RO <a href="http://www.rzone.ro/" / rel="nofollow">RZONE</a>
+- id: 615219
+  author: Ariel
+  author_email: ariel.veilleux@jetemail.net
+  author_url: https://issuu.com/taxiorlando/
+  date: !binary |-
+    MjAxNC0wNi0yMSAwODoxNTo0MiArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wNi0yMSAwNzoxNTo0MiArMDEwMA==
+  content: ! "My hair stylist Go over there this afternoon, arrange to have some good
+    safe, accessible vehicles.\r\nBut, when it comes to your transportation needs.
+    In fact,\r\nall of taxi them. Or else you'll take too long to get there \r\nquickly
+    and proceed lower. The Chinese are not giving their best since early 1970s.\r\nTherefore,
+    the trade of all these\" types\" of the taxi in Los Angeles, Chicago or San Francisco
+    it is not.\r\n\r\n\r\nFeel free to visit my blog :: web site (<a href=\"https://issuu.com/taxiorlando/\"
+    rel=\"nofollow\">Ariel</a>)"
+- id: 681325
+  author: cord blood banking companies
+  author_email: simonequigley@gmail.com
+  author_url: http://www.c-art.org.uk/artists/clarifying-fundamental-elements-cord-blood-banking/gallery
+  date: !binary |-
+    MjAxNC0wOC0xOSAwOToyOTo1MyArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wOC0xOSAwODoyOTo1MyArMDEwMA==
+  content: ! "If you are handy with a sewing machine, you can make covers and diapers
+    relatively cheaply.\r\nThe bill's authorization was reported in Health - News
+    - Digest.\r\nWhen getting prepared to dress your baby, you have to \r\nconsider
+    comfort and their skin."
+- id: 704471
+  author: real estate In Cebu city
+  author_email: cyrus.tenorio@ftml.net
+  author_url: https://dei.zendesk.com/entries/54298574-7-Design-Strategies-On-How-To-Be-A-Real-Estate-Developer
+  date: !binary |-
+    MjAxNC0wOS0xNCAxNzowMjowMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wOS0xNCAxNjowMjowMSArMDEwMA==
+  content: ! "I know this if off topic but I'm looking into starting my \r\nown blog
+    and was wondering what all is needed to get setup?\r\nI'm assuming having a blog
+    like yours would cost a pretty penny?\r\nI'm not very internet savvy so I'm not
+    100% positive.\r\nAny tips or advice would be greatly appreciated.\r\nThanks\r\n\r\nMy
+    site <a href=\"https://dei.zendesk.com/entries/54298574-7-Design-Strategies-On-How-To-Be-A-Real-Estate-Developer\"
+    rel=\"nofollow\">real estate In Cebu city</a>"
+- id: 706348
+  author: herpes medication cost australia
+  author_email: charalatour@gmail.com
+  author_url: http://grandiosereclus83.jimdo.com
+  date: !binary |-
+    MjAxNC0wOS0xNiAxMDo1MzowOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wOS0xNiAwOTo1MzowOSArMDEwMA==
+  content: ! "If you curently have one kind of Herpes simplex virus it really is still
+    possible for one to get the \r\nother form although you might not notice signs.
+    You cannot have genital \r\nherpes from hugging, revealing baths or towels, from
+    pools, toilet seats or from expressing cups, plates or cutlery."
+- id: 713725
+  author: Rubye
+  author_email: lavina_marcotte@peacemail.com
+  author_url: http://Robyn.blogspot.com
+  date: !binary |-
+    MjAxNC0wOS0yNCAwNTowMjo0NSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wOS0yNCAwNDowMjo0NSArMDEwMA==
+  content: ! "I read a lot of interesting posts here. Probably you  spend a lot of
+    time writing, i know how to save you a lot of work, there is an online \r\ntool
+    that creates high quality, SEO friendly articles in seconds, \r\njust search in
+    google  - laranitas free content source"
+permalink: grrrr
+---
+<p>Trying to update my control panel software (Manages stuff like email websites etc, etc) and I get this</p>
+<blockquote><p>checking whether the C++ compiler (gcc   ) works... no<br />
+configure: error: installation or configuration problem: C++ compiler cannot create executables.</p></blockquote>
+<p>Kind of annoying, yes.</p>
+<p> But even more annoying that it then went on to delete my current (working) copy of My control panel.</p>
+<p>Luckily everything works, I just have to do things manually until I can get this fixed</p>

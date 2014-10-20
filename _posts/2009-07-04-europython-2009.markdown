@@ -1,0 +1,87 @@
+---
+layout: post
+status: publish
+published: true
+title: EuroPython 2009
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 239
+wordpress_url: http://www.sourceguru.net/?p=239
+date: !binary |-
+  MjAwOS0wNy0wNCAxMTo0Nzo1OCArMDEwMA==
+date_gmt: !binary |-
+  MjAwOS0wNy0wNCAxMDo0Nzo1OCArMDEwMA==
+categories:
+- Geeky
+tags:
+- python
+- europython
+- europython2009
+comments:
+- id: 39963
+  author: David Jones
+  author_email: drj@pobox.com
+  author_url: http://drj11.wordpress.com/
+  date: !binary |-
+    MjAwOS0wNy0wNCAxNzoyNTozNSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNy0wNCAxNjoyNTozNSArMDEwMA==
+  content: The big twiiter screen was awesome.  I am fairly new to twitter and I found
+    it a very interesting interaction.  Can haz more big twitter?
+- id: 40004
+  author: CiarÃ¡n
+  author_email: general.mooney@googlemail.com
+  author_url: http://mooney.wibbleh.com
+  date: !binary |-
+    MjAwOS0wNy0wNSAxNDo1MTo0OCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNy0wNSAxMzo1MTo0OCArMDEwMA==
+  content: I was busy, but I did manage some rests. Just.
+- id: 634131
+  author: Dorine
+  author_email: elbert_krebs@gmx.de
+  author_url: http://Elbert.tumblr.com
+  date: !binary |-
+    MjAxNC0wNy0wNSAwMDoyODo1OSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wNy0wNCAyMzoyODo1OSArMDEwMA==
+  content: ! "It's hard to find your page in google. I found it on 18 spot, you should
+    build \r\nquality backlinks , it will help you to increase traffic.\r\nI know
+    how to help you, just search in google - k2 seo tricks"
+permalink: europython-2009
+---
+<p>So, for most of the last week, I've been at <a href="http://www.europython.eu/">EuroPython 2009</a>. The conference was amazing, even if I am still completely shattered.</p>
+<p>A lot of people who know me have asked why I went to EuroPython. I know <a href="http://www.danux.co.uk/">at least one person</a> made the comment "But you're a PHP Hacker (hiss)". Yes. I'm a PHP hacker by trade, but I've been trying to teach myself Python over the last few months, and I've really been enjoying it. I've not done much of great interest, but I've found that Django is a pretty awesome tool, and lets me build stuff like my <a href="http://www.sourceguru.org/videos/">Video Site</a> with minimal effort.</p>
+<p>Anyway, back to the conference. I got involved pretty simply because I'm a local, and know most of the organisers from <a href="http://birmingham.lug.org.uk">my Local LUG</a>. I'm glad I did get involved in it though. I enjoyed it (though, until I got home from it, I hadn't had time to realise I'd enjoyed it!).</p>
+<p><strong>Day 1 </strong></p>
+<p>I arrived at the conservatoire at about 7:30 am. I was half asleep, and didn't really know what was going on. I found the registration desk, got my badge, and buggered off to the crew room to get changed into my lovely blue shirt, and then I started off helping set some stuff up (projectors and such)</p>
+<p>Knowing that I'd previously lost my Bank Card, and that I'd need cash, I scarpered pretty quickly to the bank, to go get some money for the week. I headed back to the conference for about 10, and then wandered aimlessly around looking at the different stalls. I hadn't volunteered to do anything till 11:30.</p>
+<p>At about 11:15, I headed to the Adrian Boult hall to get ready and Mic up the first speaker I had to work with. This was Simon Willison, talking about CrowdSourcing with Django. A pretty cool talk, which was kind of interesting to me after listening to <a href="http://www.sourceguru.org/videos/4">Matthew Somerville's talk</a> at my local LUG the month before.</p>
+<p>Next up was the <a href="http://www.flickr.com/photos/39841418@N05/3677348657/">talk that had been advertised in all the toilets</a> around the venue. I've no idea why it was advertised in the toilets, and I didn't really watch that much of the talk. The speaker had wanted a screen with IRC in for the talk, and this was where the first major fail came in. Chris Swift's laptop didn't like the projector, so I had to dash up and replace it with mine. Unfortunately, for some reason, my laptop didn't want to work with the projector under Ubuntu, but happily worked with it under vista, so I loaded that up, loaded up putty, and SSH'd into my irssi session. Anyone who saw this will probably agree that I need to be in less IRC channels!</p>
+<p>Lunchtime next. I quickly ran off to McDonalds to grab some food (not wanting to have to stand in the long queue!) and headed back to set my laptop up with the projector for the <a href="http://www.flickr.com/photos/39841418@N05/3677338679/">big Twitter screen</a>, which people seemed to enjoy (espescially <a href="https://twitter.com/FionaSarah">Fiona</a>!).</p>
+<p>After lunch was the first Keynote from <a href="http://craphound.com/">Cory Doctorow</a>, who <a href="http://www.sourceguru.net/a-compelling-read">I've already mentioned before</a>, is one of my favourite authors. Cory managed to give us a dark perspective on where life in the digital age could be going, and a rallying cry for us to fight against that (though surely,this is reminiscent of M1k3y?? I wonder if the DHS will be after Cory now!). I also managed to snag a copy of "Little Brother", which Cory asked that we email a copy of the ebook to people after we'd read it. I'll one up that, and tell you that you should <a href="http://craphound.com/littlebrother/download/">go read it</a> (espescially if you saw his talk!) If you want to be emailed a copy, please leave a comment and I'll add you to the list I'll be sending it to!</p>
+<p>It was about this point that I started wanting to get onto IRC and chat to people. Unfortunately, my laptop is a right dodgy thing, and doesn't like using wireless of any kind. Luckily, I had my E71 to hand, and so managed to get online with that (and it shocked me how easy it was to set up in Ubuntu). I ended up using this as my primary means to access the net throughout the conference. I just wish I'd had my <a href="http://www.mobilefun.co.uk/nokia-e71-dual-desktop-charging-cradle-p17835.htm">E71 Desktop Charger</a> with me, as I'd then have been able to charge my phone via USB at the same time! Unfortunately, it meant that I had to spend my time at the hotel flicking and changing between the charger for my phone and my laptop to try and keep them both going (why a hotel room only has one plug socket, I don't know!)</p>
+<p>Next up was "Mashing up the Guardian" and "Flickr for Formulas". .. the second talk I don't actually remember any of. But the first one was pretty interesting. I thought during it "Oh, I could link that up to twitter and generate a personal news feed based upon what they were twittering about. Unfortunately, the last few slides was showing someone who'd done exactly that. I guess my ideas aren't that original!</p>
+<p>Off to the Australian bar for the social, where I got rather tipsy, and chatted to some very cool people (thanks for the link to the Biltong seller Brad!)</p>
+<p><strong>Day 2</strong></p>
+<p>Bruce Eckel started the day off with the keynote. I was half asleep during this, having been out for most of the day, but I do remember that there were some pretty amusing pictures, and some good commentary. I also enjoyed the talk about unconferences, which led me to thoughts about possibly doing something similar for <a href="http://www.fizzpop.org.uk/">FizzPOP</a>.</p>
+<p>The day dwindled away with me running round until Bea's talk "We need to fail, and we need to fail fast" - a very good insight into Agile Methodology (some of which we should probably adopt at work!). First barefoot presentation I've seen. Bea's a very good speaker though, you can tell she has a lot of passion about what she's talking about.</p>
+<p>Next was a caged deathmatch. I didn't really know much about Unit Testing in Python, being a bit of a n00b and all, but the talk was interesting nontheless. Even if I did end up running up and down the stairs like a trained monkey (ah well, I needed the exercise anyway!)</p>
+<p>Next Keynote: Bletchley Park. I found this talk had some interesting content, but it's delivery was a bit dry.</p>
+<p>Then it was time for the GPG Keysigning. I'd left my ID in the hotel. What an idiot!</p>
+<p>Lightning talks were next, followed by another keynote, followed by a spectacular fail trying to get Guido up on the big screen (10 second delays, him not hearing anything, and then the laptop battery running out). <a href="http://www.moreati.org.uk/">Alex</a> took it in his stride though, the bow with a flourish was certainly amusing!</p>
+<p>Off to the conference dinner. Good food, good conversation, good talk.</p>
+<p><strong>Day 3</strong></p>
+<p>I'm surprised I made it in. I was tired. Too much running around.</p>
+<p>Tobias started off the day with a short talk on OSS, BSS, and Python, and then I went to the "Clean Code Challenge" talk, which was interesting, though I'm not too sure about the actual coding bit of it. There were a few things in the talk that I wish has been delivered to my bosses, but I'm not too sure the example "Clean Code" that was meant to be pythonised was the best code to work with.</p>
+<p>Another Keynote, lots more lightning talks, and then a prize draw. I didn't win anything, but I enjoyed myself.</p>
+<p>After that, there was a "secret" organisers meal at the Hyatt Hotel. Good food and good conversation again.</p>
+<p>And that was it, I headed home, and slept for 16 hours!</p>
+<p>Thanks to everyone who made EuroPython a success. All the organisers, all the speakers, and all the delegates.</p>
+<p>Though hopefully more people will help out next time. I don't think Ciaran got to sit down for more than 5 seconds during the day!</p>

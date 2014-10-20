@@ -1,0 +1,221 @@
+---
+layout: post
+status: publish
+published: true
+title: Things that make me angry ...
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 283
+wordpress_url: http://www.sourceguru.net/?p=283
+date: !binary |-
+  MjAwOS0xMS0wOSAxNjoyODoyNyArMDAwMA==
+date_gmt: !binary |-
+  MjAwOS0xMS0wOSAxNToyODoyNyArMDAwMA==
+categories:
+- Personal
+tags:
+- angry
+comments:
+- id: 45588
+  author: nido
+  author_email: nido@foxserver.be
+  author_url: ''
+  date: !binary |-
+    MjAwOS0xMS0wOSAxNzowNTo1NyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAxNjowNTo1NyArMDAwMA==
+  content: gnash compiles and runs pretty well on 64 bit. be it AMD64 or SPARC64.
+    :P
+- id: 45589
+  author: JJ
+  author_email: none@nowhere.de
+  author_url: ''
+  date: !binary |-
+    MjAwOS0xMS0wOSAxNzowNjowNCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAxNjowNjowNCArMDAwMA==
+  content: ! "&gt; Christmas Songs on the Radio\r\n\r\nThat's no so bad, you can turn
+    still it off. But the streets around here are already fully decorated for almost
+    a week, when waking up last monday at first I thought I had missed a whole month
+    or so.\r\n\r\n&gt; 64-bit Flash Support (edit: or lack thereof)\r\n\r\nWhat does
+    not work? I use the native proprietary 64bit Flash plugin (at work I use gnash)
+    in Flock (64bit native version from fbuild) and Konqueror and even with my quite
+    strange pulseaudio setup it works fine."
+- id: 45590
+  author: Frank
+  author_email: frank@fthieme.net
+  author_url: http://www.fthieme.net
+  date: !binary |-
+    MjAwOS0xMS0wOSAxNzoxMzoyNCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAxNjoxMzoyNCArMDAwMA==
+  content: ! "mmh? I do have a 64bit flash plugin...\r\n\r\n% file /usr/lib/mozilla/plugins/libflashplayer.so\r\n/usr/lib/mozilla/plugins/libflashplayer.so:
+    ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, stripped"
+- id: 45592
+  author: Mez
+  author_email: martin@sourceguru.net
+  author_url: http://www.sourceguru.net/
+  date: !binary |-
+    MjAwOS0xMS0wOSAxNzoyNjoyMiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAxNjoyNjoyMiArMDAwMA==
+  content: My flash wont respond to the mouse, only the keyboard.
+- id: 45593
+  author: Cassiano Leal
+  author_email: cassianoleal@gmail.com
+  author_url: http://cassianoleal.wordpress.com/
+  date: !binary |-
+    MjAwOS0xMS0wOSAxNzoyNzowNyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAxNjoyNzowNyArMDAwMA==
+  content: ! "http://labs.adobe.com/downloads/flashplayer10.html\r\n\r\nFlash's been
+    available for 64-bit Linux for sometime now."
+- id: 45597
+  author: Andreas Marschke
+  author_email: xxtjaxx@gmail.com
+  author_url: http://andreasdevblog.wordpress.com
+  date: !binary |-
+    MjAwOS0xMS0wOSAxODoxMDowNSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAxNzoxMDowNSArMDAwMA==
+  content: ! "I Hope this will solve the problem.\r\n\r\n:~$ apt-cache show nspluginwrapper
+    \                  \r\nPackage: nspluginwrapper                                           \r\nPriority:
+    optional                                                 \r\nSection: contrib/utils
+    \                                            \r\nInstalled-Size: 472                                                \r\nMaintainer:
+    Rob Andrews                         \r\nArchitecture: amd64                                                \r\nVersion:
+    1.3.0-1\r\nDepends: ia32-libs (&gt;= 2.4), ia32-libs-gtk, lib32gcc1 (&gt;= 1:4.1.1),
+    libatk1.0-0 (&gt;= 1.20.0), libc6 (&gt;= 2.2.5), libc6-i386 (&gt;= 2.2), libcairo2
+    (&gt;= 1.2.4), libcurl3-gnutls (&gt;= 7.16.2-1), libglib2.0-0 (&gt;= 2.16.0),
+    libgtk2.0-0 (&gt;= 2.12.0), libpango1.0-0 (&gt;= 1.22.0), libx11-6, libxt6, util-linux
+    (&gt;= 2.13~rc3-7) | linux32, debconf\r\nFilename: pool/contrib/n/nspluginwrapper/nspluginwrapper_1.3.0-1_amd64.deb\r\nSize:
+    198242\r\nMD5sum: 2a16e82e5fe99d1afde754de354ac077\r\nSHA1: 88f49c61d3c52f60b488e06fdb2cfbdd067418aa\r\nSHA256:
+    8292a36ce2f3560489d09a4683faae016aae984ba263a9642d62e6c9d7b594ef\r\nDescription:
+    A wrapper to run Netscape plugins on other architectures\r\n nspluginwrapper is
+    an Open Source compatibility plugin for Netscape 4\r\n (NPAPI) plugins. That is,
+    it enables you to use plugins on platforms\r\n they were not built for.\r\n .\r\n
+    This package is built to run i386 plugins, since there are no known\r\n binary-only
+    plugins built for any other architecture.\r\nTag: implemented-in::c, qa::old-rc-bugs,
+    role::plugin, role::shared-lib, suite::mozilla"
+- id: 45598
+  author: Paul Johnson
+  author_email: baloo@ursamundi.org
+  author_url: ''
+  date: !binary |-
+    MjAwOS0xMS0wOSAxOTowNzowNyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAxODowNzowNyArMDAwMA==
+  content: As long as the <a href="http://www.debian.org/devel/debian-desktop/" rel="nofollow">Debian
+    Desktop Project</a> exists, Ubuntu should not.
+- id: 45601
+  author: Mattj
+  author_email: matt@mattjones.me.uk
+  author_url: ''
+  date: !binary |-
+    MjAwOS0xMS0wOSAyMDo1MDo0MiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAxOTo1MDo0MiArMDAwMA==
+  content: ! '@ Paul. Stop spamming, you put exactly the same comment on the blog
+    post in question.'
+- id: 45602
+  author: Kurt von Finck
+  author_email: mneptok@mneptok.com
+  author_url: http://mneptok.com
+  date: !binary |-
+    MjAwOS0xMS0wOSAyMDo1Mjo0MyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAxOTo1Mjo0MyArMDAwMA==
+  content: ! "<i>As long as the Debian Desktop Project exists, Ubuntu should not.</i>\r\n\r\nWow,
+    What other things in the world \"should not exist\" in your opinion?\r\n\r\n\"As
+    long as Judaism exists, Christians and Muslims should not.\"\r\n\r\nPersonally,
+    I know I have enough personal flaws and biases that I am a poor judge of what
+    has the right to exist and what does not. But that's me ..."
+- id: 45604
+  author: ptx
+  author_email: patrick.jenkins@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOS0xMS0wOSAyMTowMDoxNSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAyMDowMDoxNSArMDAwMA==
+  content: I love how trolls always attempt to hijack any discussion with rediculous
+    non-sequiters.
+- id: 45606
+  author: RaphaÃ«l Pinson
+  author_email: raphink@gmail.com
+  author_url: http://www.raphink.info
+  date: !binary |-
+    MjAwOS0xMS0wOSAyMTozNzo0OSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0wOSAyMDozNzo0OSArMDAwMA==
+  content: ! "That's a very open-minded view on free software, Paul, congratulations
+    :-)\r\n\r\nI can't find your qa.debian.org page by the way. Am I missing something?"
+- id: 45615
+  author: Vadim P.
+  author_email: vperetokin@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOS0xMS0xMCAwMTo0NjoxMCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0xMCAwMDo0NjoxMCArMDAwMA==
+  content: ! "Adobe's 64bit Flash is working for me...\r\n\r\nExcept the fact that
+    they haven't updated it for GTk 2.18. But hey, open-source stuff like Java hasn't
+    either apparently (and I hear mono. not confirmed.)"
+- id: 45633
+  author: Simon C
+  author_email: chopin.simon@googlemail.com
+  author_url: http://laarmen.redheber.com
+  date: !binary |-
+    MjAwOS0xMS0xMCAxMTozMDozMCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0xMCAxMDozMDozMCArMDAwMA==
+  content: ! "I usually follow the DD blogs through the Planet Debian without comment
+    any post, but for those ones (about all the @ubuntu stuff), I make an exception.
+    I think that's kind of shame (is this sentence a correct one ?) that your post
+    doesn't mentions all the blog posts I've seen on the Planet Debian, who disagreed
+    whith the one you quoted. Indeed, the opinion of the qhoted blogger involves just
+    himself, but it is the only overview given by your post on the Planet Ubuntu.\r\n\r\nThat
+    would be nice if you allowed the P.U. readers to get an easy access to the DD's
+    reaction, wouldn't it ?\r\n\r\nThis one deserves a particular intention ;-) :\r\nhttp://alfie.ist.org/blog/2009/11/10#things-make-me-happy.en"
+- id: 45652
+  author: ftx
+  author_email: hgoodrich@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOS0xMS0xMCAxOToxNzoxNCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOS0xMS0xMCAxODoxNzoxNCArMDAwMA==
+  content: Go to the anger management class.
+- id: 60520
+  author: MTecknology
+  author_email: mtecknology@ubuntu.com
+  author_url: http://profarius.com
+  date: !binary |-
+    MjAxMC0wNy0wNyAyMDoxMzoyMiArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMC0wNy0wNyAxOToxMzoyMiArMDEwMA==
+  content: ! "1) Agree\r\n2) Agree\r\n3) LOL! Is that guy actually serious?"
+- id: 364438
+  author: computer desk
+  author_email: angeline-deacon@gmail.com
+  author_url: http://www.computerdesksgiant.com/
+  date: !binary |-
+    MjAxMy0xMC0xOCAxMDo1NzowNCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMy0xMC0xOCAwOTo1NzowNCArMDEwMA==
+  content: ! "Attractive component to content. I simply stumbled upon your site \r\nand
+    iin accession capital to assert that I get actually enjoyed account your \r\nweblog
+    posts. Any way I'll be subscribing for your \r\nfeeds and even I success you access
+    consistently rapidly."
+permalink: angry
+---
+<ul>
+<li>Christmas Songs on the Radio</li>
+<li>64-bit Flash Support (edit: or lack thereof)</li>
+<li><a href="http://sandrotosi.blogspot.com/2009/11/things-that-make-me-angry.html">Blog posts discouraging people from contributing to Debian</a></li>
+</ul>

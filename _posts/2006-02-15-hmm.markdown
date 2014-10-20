@@ -1,0 +1,48 @@
+---
+layout: post
+status: publish
+published: true
+title: Hmm..
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 12
+wordpress_url: http://www.sourceguru.net/archives/12
+date: !binary |-
+  MjAwNi0wMi0xNSAwNzo0MDoxMiArMDAwMA==
+date_gmt: !binary |-
+  MjAwNi0wMi0xNSAwNjo0MDoxMiArMDAwMA==
+categories:
+- Geeky
+- Ubuntu
+tags: []
+comments:
+- id: 9
+  author: JGJones
+  author_email: joe@gwallgofi.org
+  author_url: http://gwallgofi.com
+  date: !binary |-
+    MjAwNi0wMi0xNSAxNDo0MzozNyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMi0xNSAxMzo0MzozNyArMDAwMA==
+  content: hmm seek help ;-) Nah, only start to worry if you get more excited about
+    the next release of Ubuntu (Dapper Drake?)
+- id: 13
+  author: Alexis
+  author_email: afhp@yahoo.com
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wMi0yMSAwODo1NToyNyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMi0yMSAwNzo1NToyNyArMDAwMA==
+  content: ! "It *is* bad ;)\r\n\r\nSeriously... (K|X)Ubuntu being about diversity
+    and tolerance, an ubuntu circle of three /identical/ individuals would send the
+    opposite message, regardless of how visually appealing the photo would be."
+permalink: hmm
+---
+<p>Is it bad that when watching a program about Triplets last night, and a photographer was taking photos of baby triplets that my first thought  was "how cool an "ubuntu circle" photo would that be?"</p>

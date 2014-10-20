@@ -1,0 +1,78 @@
+---
+layout: post
+status: publish
+published: true
+title: Amusing...
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 44
+wordpress_url: http://www.sourceguru.net/archives/44
+date: !binary |-
+  MjAwNi0xMC0xMSAxMzoyMzo0OCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNi0xMC0xMSAxMjoyMzo0OCArMDEwMA==
+categories:
+- Personal
+tags: []
+comments:
+- id: 1261
+  author: seele
+  author_email: seele@obso1337.org
+  author_url: http://www.obso1337.org
+  date: !binary |-
+    MjAwNi0xMC0xMSAxNDowNDo0MiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMC0xMSAxMzowNDo0MiArMDEwMA==
+  content: way to use linux to pick up chicks!  (i bet you never thought that would
+    happen) ;-)
+- id: 1263
+  author: furanku
+  author_email: a@b.com
+  author_url: ''
+  date: !binary |-
+    MjAwNi0xMC0xMSAxODoxMjo1NSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMC0xMSAxNzoxMjo1NSArMDEwMA==
+  content: You know that you're *really* famous, if you get fan mails like Douglas
+    Adams, who got a mail saying "Thank you for all the chicks I got hanging around
+    in bars and pretending to be you!" ;)
+- id: 1264
+  author: Raphael
+  author_email: rjs@schattenschreiber.org
+  author_url: http://schattenschreiber.org
+  date: !binary |-
+    MjAwNi0xMC0xMSAxODo1NjowOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMC0xMSAxNzo1NjowOSArMDEwMA==
+  content: Does the story go on? Dinner in the evening? The IT community needs female-relationship-forming
+    success stories! :)
+- id: 1286
+  author: luve
+  author_email: bla@bla.com
+  author_url: ''
+  date: !binary |-
+    MjAwNi0xMC0xMyAwODoxMDowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMC0xMyAwNzoxMDowMCArMDEwMA==
+  content: Well I got my girl by installing Ubuntu on her new computer.
+- id: 112964
+  author: Mitch
+  author_email: marcelo.santos@bbcr.com.br
+  author_url: http://www.google.com/
+  date: !binary |-
+    MjAxMS0wNi0zMCAxOToxODozNCArMDEwMA==
+  date_gmt: !binary |-
+    MjAxMS0wNi0zMCAxODoxODozNCArMDEwMA==
+  content: Frankly I think that's asbotulely good stuff.
+permalink: amusing
+---
+<p>The other day, I walked into a local computer shop as I needed to buy a few components, after a while, I got chatting to the Sales Girl, and the talk moved to Linux. she said she was trying out linux on her laptop, and I asked her what she was using</p>
+<p>"Oh, 'K-ubuntu'"</p>
+<p>"Really? I help with the development of that" <em>(not true of late - but hey!)</em></p>
+<p>"Wow - I've met someone famous"</p>

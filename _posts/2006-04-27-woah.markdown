@@ -1,0 +1,202 @@
+---
+layout: post
+status: publish
+published: true
+title: Woah.
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 22
+wordpress_url: http://www.sourceguru.net/archives/22
+date: !binary |-
+  MjAwNi0wNC0yNyAxNzowMTo0NCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNi0wNC0yNyAxNjowMTo0NCArMDEwMA==
+categories:
+- Personal
+tags: []
+comments:
+- id: 150
+  author: Jure Repinc
+  author_email: jlp@holodeck1.com
+  author_url: http://jlp.holodeck1.com/blog/
+  date: !binary |-
+    MjAwNi0wNC0yNyAxNzo0Njo1OCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yNyAxNjo0Njo1OCArMDEwMA==
+  content: Did you try <a href="http://unknowngenius.com/blog/wordpress/spam-karma/"
+    rel="nofollow">Spam Karma 2</a>? It seams to work quite well on my Wordpress blog.
+- id: 151
+  author: Ã˜ivind Hoel
+  author_email: oivind.hoel@gmail.com
+  author_url: http://appelsinjuice.org
+  date: !binary |-
+    MjAwNi0wNC0yNyAxODoyNToxOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yNyAxNzoyNToxOSArMDEwMA==
+  content: You might want to try the Akismet plugin ( http://akismet.com/ ) - it's
+    doing a wonderful job for my site - killing spam in a way that makes it seem completely
+    effortless. After installing it, I only get REAL comments in my moderation queue
+    :-)
+- id: 153
+  author: Nico
+  author_email: nico@rdo.homelinux.org
+  author_url: http://rdo.homelinux.org/
+  date: !binary |-
+    MjAwNi0wNC0yNyAxODo1NDozOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yNyAxNzo1NDozOSArMDEwMA==
+  content: ! "Two Words: Spam Karma\r\nhttp://unknowngenius.com/blog/wordpress/spam-karma/\r\n\r\nIt
+    took me from a \"spam me!\" state (1000 spams an hour) to \"They know I can't
+    be spammed\" state (1 every 3 months).\r\n\r\nThe spammers learn quickly where
+    to spend their resources.\r\n\r\nNico"
+- id: 154
+  author: robotgeek
+  author_email: venkatraghavan@gmail.com
+  author_url: http://robotgeek.org/blog
+  date: !binary |-
+    MjAwNi0wNC0yNyAxOToyOTowNyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yNyAxODoyOTowNyArMDEwMA==
+  content: ! "Well, i've been using akismet from wordpress, and it seems to work pretty
+    well in finding spam. \r\n\r\nI don't know of any plugins to autodelete this,
+    but there is a bulk edit mode for recent comments, i think."
+- id: 155
+  author: Kae Verens
+  author_email: kae@verens.com
+  author_url: http://verens.com/
+  date: !binary |-
+    MjAwNi0wNC0yNyAyMTowMTo1NCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yNyAyMDowMTo1NCArMDEwMA==
+  content: Have to agree. Spam Karma 2. I've been using it for months, and I don't
+    believe I have ever seen a single spam get through it.
+- id: 156
+  author: MacSlow
+  author_email: macslow@bangang.de
+  author_url: http://macslow.thepimp.net
+  date: !binary |-
+    MjAwNi0wNC0yNyAyMToxNjo0NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yNyAyMDoxNjo0NiArMDEwMA==
+  content: I'm using the CaptCha!-plugin for WordPress and thanks to that my blog
+    is 100% spam-free. You can grab it here http://www.boriel.com/?page_id=17
+- id: 157
+  author: Dick Davies
+  author_email: rasputnik@gmail.com
+  author_url: http://number9.hellooperator.net/
+  date: !binary |-
+    MjAwNi0wNC0yNyAyMToyODoxOCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yNyAyMDoyODoxOCArMDEwMA==
+  content: ! "\"anyone knows of a nice Wordpress plugin thatâ€™ll do it for me ?\"\r\n\r\nmysqladmin
+    works well :)"
+- id: 158
+  author: Adam Sweet
+  author_email: drinky76@yahoo.com
+  author_url: http://blog.adamsweet.org/
+  date: !binary |-
+    MjAwNi0wNC0yNyAyMjowMTo0NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yNyAyMTowMTo0NiArMDEwMA==
+  content: Have a look at Spam Karma. I've been using it since December 2005. I get
+    around 150 spam comments per day. I've had maybe 5 false negatives and no false
+    positives since I started using it. Anything it's not sure about, it leaves in
+    your moderation queue, which is maybe 1 every few weeks.
+- id: 159
+  author: Steve
+  author_email: steven@noenemies.com
+  author_url: http://www.noenemies.com
+  date: !binary |-
+    MjAwNi0wNC0yNyAyMjozNzo1NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yNyAyMTozNzo1NiArMDEwMA==
+  content: Askimet came built-in with the latest Wordpress release. I installed Wordpress,
+    and it was right there...
+- id: 160
+  author: Lloyd D Budd
+  author_email: foolswisdom@gmail.com
+  author_url: http://foolswisdom.com/~lloyd
+  date: !binary |-
+    MjAwNi0wNC0yOCAwMjoxMjo1OCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yOCAwMToxMjo1OCArMDEwMA==
+  content: You can't beat Akismet! Or should I say, Spammers can't beat Akismet.
+- id: 164
+  author: Fred
+  author_email: fred@linox.be
+  author_url: http://linox.be
+  date: !binary |-
+    MjAwNi0wNC0yOCAwODo0ODo0OSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yOCAwNzo0ODo0OSArMDEwMA==
+  content: ! "I'm also using WordPress, with <a href=\"http://akismet.com/\" rel=\"nofollow\">akismet</a>.
+    It's a standard plugin in WordPress 2. You just have to subscribe for an akismet
+    number ... and it stops 99% of the spam.\r\n\r\n<blockquote>Akismet has caught
+    4,609 spam for you since you installed it.</blockquote>\r\n\r\nB-)"
+- id: 165
+  author: Amilcar Lucas
+  author_email: amilcar@kdevelop.org
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wNC0yOCAwOTowODo0OCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yOCAwODowODo0OCArMDEwMA==
+  content: Try the "bad bahaviour" plugin. It helps a lot.
+- id: 168
+  author: skippy
+  author_email: skippy@skippy.net
+  author_url: http://www.skippy.net/
+  date: !binary |-
+    MjAwNi0wNC0yOCAxNTo1NToxOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yOCAxNDo1NToxOSArMDEwMA==
+  content: ! "Akismet is not truly free, since the \"secret sauce\" used by the Akismet
+    service to evaluate your comments is not published anywhere.  Moreover, <em>all</em>
+    of your comments go to Akismet, spam or not, for evaluation.  I have yet to see
+    anything formal declaring Automattic's position on use of this data.  Personally,
+    it gives me the willies, and I won't use it.\r\n\r\nSpam Karma 2 is quite popular,
+    but I don't use it either.  It seems too \"heavy\" a solution.  It's technically
+    non-free, too, according to the commercial use restrictions.\r\n\r\nI cobbled
+    together <a href=\"http://www.skippy.net/blog/wp-content/plugins/sdm_spam_check.phps\"
+    rel=\"nofollow\">my own</a> anti-spam plugin.  This, along with a reasonable set
+    of blacklisted words, suffices for my blog.  I still get some junk, but it's a
+    few pieces every couple of days, as opposed to dozens per day."
+- id: 174
+  author: Ade
+  author_email: adrian.bradshaw@gmail.com
+  author_url: http://www.adrianbradshaw.co.uk
+  date: !binary |-
+    MjAwNi0wNS0wMSAxMjozMDo0NCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNS0wMSAxMTozMDo0NCArMDEwMA==
+  content: SpamKarma is certainly very good, I run it myself - I think you should
+    try it first
+- id: 627791
+  author: minecraft gratuit
+  author_email: adolfoeasterbrook@gmail.com
+  author_url: http://minecraft-crack-gratuit.ex-gamer.com/
+  date: !binary |-
+    MjAxNC0wNi0zMCAxNTo1MjozOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAxNC0wNi0zMCAxNDo1MjozOSArMDEwMA==
+  content: ! "As the name precisely suggests, it prominently comes in Neelam or blue
+    color, and its various other shades such as sky blue \r\nand pink. Hardcore Minecraft
+    Gift Rule Generator casual players alike would want Minecraft Gift Code Generator
+    chance of finding such an object; it would be such as winning Minecraft Gift Code
+    Generator lottery.\r\nYou can probably remove them with a map editor, but that's
+    not my \r\narea of expertise.\r\n\r\nMy blog ... <a href=\"http://minecraft-crack-gratuit.ex-gamer.com/\"
+    rel=\"nofollow\">minecraft gratuit</a>"
+permalink: woah
+---
+<p>106 Comments awaiting Moderation on my blog today.</p>
+<p> Guess how many of them weren't spam.....</p>
+<p> <strong>Two</strong>.</p>
+<p>Yes, that's right. Two... It's nice to know that these bots are here trying to sell drugs, online poker, and porn sites through my blog.</p>
+<p> It's amazing what people are like nowadays - it's just stupid. Spam should be in an easily filterable form and email only... or just non-existant.</p>
+<p> Now to hack away a little to auto-delete these comments - unless anyone knows of a nice Wordpress plugin that'll do it for me ?</p>

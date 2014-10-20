@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: Stuff
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 23
+wordpress_url: http://www.sourceguru.net/archives/23
+date: !binary |-
+  MjAwNi0wNC0zMCAxOTo1MzowOCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNi0wNC0zMCAxODo1MzowOCArMDEwMA==
+categories:
+- Personal
+tags: []
+comments: []
+permalink: stuff
+---
+<p>So... First of all - I'd like to say a big welcome back to <a href="http://launchpad.net/people/shermann">\sh</a>, who, after all his problems, seems to be getting his life back on track. Good luck with it Stephan, and I hope it all goes well.</p>
+<p>Anyways, back to me ... I've been having a few problems of late, and it's starting to get interesting. I've got a few health issues going on - and well - they're not good... I'm currently having to wait for tests, and for test results and stuff - and all the waiting has gotten to me.</p>
+<p>Anyway, due to all of this stuff - I've decided to make a fresh start with my life... Once I've paid off my rent and got my new house sorted out (my current lease ends at the end of the month - so I should be moving in with my friends once that's over - buig mad rush to find a place before June now), I'm going to start making a few changes to myself.</p>
+<p>First of all, I'm going to start contributing a lot more than I have been of late to both ubuntu, and other FOSS projects. I've not really been doing much lately, and I want to start contributing again, to get back that sense of accomplishment that I had when I was working back on breezy, and of course, I want edgy to be uber cool. Katapult is coming along in leaps and bounds of lates (when we get together and work) and I think that with a little hard work, and a lot of patience, we can make it up to an application that rivals the functionality of Quicksilver.</p>
+<p>I'm also looking into moving out to America at some point in the future... Probably around this time next year. Thing is - I either need to convince my Company to let me transfer over there, or find another company to sponsor me for a Visa... At the moment, I'm currently eligible for an E3 Visa, if I can convince the company - but I don't know - we'll have to see. So, if anyone out there wants to offer me a job (preferably in the Daytona area (for personal reasons)) feel free to get in contact with me - (martin (at) sourceguru (dot) net)</p>
+<p> Anyway, I'm just writing this to kill time before I head off to work, and my bus should be arriving soon, so well - I guess I'll go.</p>
+<p> And for those who read my post about Spam .... well - it's nothing compared to the amount of email I've had in the past 3 weeks where I haven't been on my own PC - I just checked it through webmail and I have just under 19,000 emails waiting for me. I think it may be time to turn off my mailing list subscriptions temporarily :D</p>

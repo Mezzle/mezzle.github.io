@@ -1,0 +1,245 @@
+---
+layout: post
+status: publish
+published: true
+title: My Boss, with a little help, starts the conversion to Linux
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 203
+wordpress_url: http://www.sourceguru.net/?p=203
+date: !binary |-
+  MjAwOS0wNC0wOSAyMTowNjo1NSArMDEwMA==
+date_gmt: !binary |-
+  MjAwOS0wNC0wOSAyMDowNjo1NSArMDEwMA==
+categories:
+- Personal
+tags:
+- Linux
+- Ubuntu
+- synergy
+- convert
+- windows
+comments:
+- id: 35115
+  author: Darwin Survivor
+  author_email: darwinsurvivor@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wNC0wOSAyMTo0MDo0MyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0wOSAyMDo0MDo0MyArMDEwMA==
+  content: ! "Does he know that it copies the clipboard across machines as well?\r\n\r\nThis
+    would help in transfer text snippets from one machine to another. Just copy on
+    one, then paste on the other."
+- id: 35117
+  author: Stuart
+  author_email: stuart.a.ballard@gmail.com
+  author_url: http://sab39.netreach.com/
+  date: !binary |-
+    MjAwOS0wNC0wOSAyMTo0MzoyNCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0wOSAyMDo0MzoyNCArMDEwMA==
+  content: I'm a little confused... why on earth would you consider using Wine to
+    run .NET stuff when Mono exists?
+- id: 35118
+  author: Mez
+  author_email: martin@sourceguru.net
+  author_url: http://
+  date: !binary |-
+    MjAwOS0wNC0wOSAyMTo0NjoxNiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0wOSAyMDo0NjoxNiArMDEwMA==
+  content: ! "@Darwin - yes, he does, I mentioned it to him when I was talking about
+    how I'd done it without thinking (thinking of it as just a third screen in my
+    brain) and was \"hey thats cool\" afterwards when I'd realised what I'd done.\r\n\r\n@Stuart:
+    simply because if we actually try and compile the code that's there now, it breaks
+    things - porting to mono would be a HUGE pain!"
+- id: 35119
+  author: Trever Fischer
+  author_email: wm161@wm161.net
+  author_url: http://wm161.net/
+  date: !binary |-
+    MjAwOS0wNC0wOSAyMTo1MTozMiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0wOSAyMDo1MTozMiArMDEwMA==
+  content: ! "Hah! My friend was using this stuff with 6 spare laptops he had just
+    lying around. Synergy is incredibly cool.\r\n\r\nYes, we were grinning like idiots
+    too :)"
+- id: 35126
+  author: JanoÅ¡ GuljaÅ¡
+  author_email: janos@janos.in.rs
+  author_url: http://www.janos.in.rs
+  date: !binary |-
+    MjAwOS0wNC0wOSAyMjozMjoxNiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0wOSAyMTozMjoxNiArMDEwMA==
+  content: Great story! It was fun reading it.
+- id: 35127
+  author: Mez
+  author_email: martin@sourceguru.net
+  author_url: http://
+  date: !binary |-
+    MjAwOS0wNC0wOSAyMzowMzowOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0wOSAyMjowMzowOSArMDEwMA==
+  content: ! '@Trever - I want to get a load of PCs and sit in a circle, with the
+    monitors round me, and then the ability to swivel round and go all the way round
+    me with the mouse back to where I started without having to reverse :D'
+- id: 35133
+  author: Dillon - "The Boss"
+  author_email: dill@weyer.tv
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wNC0xMCAwMDoyNToyMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0wOSAyMzoyNToyMSArMDEwMA==
+  content: Still grinning, told my wife about it, although the magic was lost on her....cant
+    wait for Tuesday....cant remember the last time I was excited to go to work...feel
+    like a kid on Christmas Day.
+- id: 35145
+  author: Dean
+  author_email: dean@deansas.org
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wNC0xMCAwNDowODo1NCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0xMCAwMzowODo1NCArMDEwMA==
+  content: You've probably tried but some .net apps should run unmodified by mono
+    on linux, there isn't necessarily a need to recompile.
+- id: 35151
+  author: Gopala krishna
+  author_email: krishna.ggk@gmail.com
+  author_url: http://krishnaggk.wordpress.com
+  date: !binary |-
+    MjAwOS0wNC0xMCAwNTozOTozNCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0xMCAwNDozOTozNCArMDEwMA==
+  content: ! "Nice story!! Should try out the new knowledge sometime :)\r\nThanks
+    for the info."
+- id: 35152
+  author: foo
+  author_email: foo@bar.com
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wNC0xMCAwNTo0NzoyMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0xMCAwNDo0NzoyMSArMDEwMA==
+  content: Err, mono supports VB.NET
+- id: 35161
+  author: ilm
+  author_email: iv0co@hotmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wNC0xMCAwOToyMjo1OSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0xMCAwODoyMjo1OSArMDEwMA==
+  content: ! "what would be cool though is:\r\n- a peer-to-peer model instead of server/client
+    (all input devices from the connected pc's can be used)\r\n- zero-configuration/auto-discovery
+    (avahi anyone ?)\r\na pc boots -&gt; synergy/avahi discovers other (authorized)
+    synergies running -&gt; autoconnect\r\n- all that in a nice plasma panel (started
+    working on it but never got that far :-) )\r\n\r\nI spoke with the synergy dev
+    and apparently he was working on the auto-discovery thing I mentioned."
+- id: 35168
+  author: andylockran
+  author_email: andy@zrmt.com
+  author_url: http://blog.zrmt.com
+  date: !binary |-
+    MjAwOS0wNC0xMCAxMTo1NDowNiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0xMCAxMDo1NDowNiArMDEwMA==
+  content: Sounds like a great program, thanks for the heads up!
+- id: 35189
+  author: anon
+  author_email: any@mouse.no
+  author_url: ''
+  date: !binary |-
+    MjAwOS0wNC0xMCAxODowNDoxMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0xMCAxNzowNDoxMSArMDEwMA==
+  content: The Synergy website manages to stay nearly blank in Konqueror while showing
+    nothing special in Firefox. What did they do to achieve that? o.O
+- id: 35207
+  author: johnc4510
+  author_email: johnc4510@ubuntu.com
+  author_url: http://johnc4510.wordpress.com/
+  date: !binary |-
+    MjAwOS0wNC0xMCAyMjo0NTo0MSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0xMCAyMTo0NTo0MSArMDEwMA==
+  content: Martin, wow! Thanks a lot for this one. I'm always running my desktop and
+    laptop at the same time, especially when I'm working on the UWN. I've always cursed
+    about having to change over to the laptops mouse and keyboard. With quicksynergy
+    it is effortless. No more back pain from leaning forward to get at them, and so
+    easy to set up. Can't thank you enough.
+- id: 35208
+  author: ! 'Links 10/04/2009: KDE 4.3 Preview; Mozilla Labs Output | Boycott Novell'
+  author_email: ''
+  author_url: http://boycottnovell.com/2009/04/10/mozilla-labs-output/
+  date: !binary |-
+    MjAwOS0wNC0xMCAyMjo1Nzo0MyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0xMCAyMTo1Nzo0MyArMDEwMA==
+  content: ! '[...] My Boss, with a little help, starts the conversion to Linux I
+    think the moral here is, there are different ways to get people to be able to
+    use Linux, and Synergy is one of those great tools that enable people to use Linux
+    without having all the hassle that comes with switching over. [...]'
+- id: 35256
+  author: ! 'IRC: #boycottnovell @ FreeNode: April 10th, 2009 - Part 3 | Boycott Novell'
+  author_email: ''
+  author_url: http://boycottnovell.com/2009/04/11/irc-log-10042009-3/
+  date: !binary |-
+    MjAwOS0wNC0xMSAxMzowMDo1MCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0xMSAxMjowMDo1MCArMDEwMA==
+  content: ! '[...] Boss, with a little help, starts the conversion to Linux &lt;
+    http://www.sourceguru.net/archives/203 [...]'
+- id: 35703
+  author: Socceroos
+  author_email: skduff@gmail.com
+  author_url: http://www.ubuntu.com/
+  date: !binary |-
+    MjAwOS0wNC0yMCAwNjo1MDo1OSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOS0wNC0yMCAwNTo1MDo1OSArMDEwMA==
+  content: ! "Hey Mez,\r\n\r\nNice story. Always cool to hear about someone willing
+    to give Linux a go.\r\n\r\nOn a different note, if you've got a central windows
+    server then you can install all the required Windows apps that he needs there
+    and then run them over the network via seamlessRDP. Its a great little tool that
+    allows you to run network apps like they were just another installed app on your
+    Ubuntu machine.\r\n\r\nIts worth giving it a go if he needs certain Windows apps."
+- id: 53362
+  author: One Keyboard two computers
+  author_email: ''
+  author_url: http://www.edugeek.net/forums/hardware/52893-one-keyboard-two-computers.html#post483621
+  date: !binary |-
+    MjAxMC0wMy0yMiAxNjoyODo1MSArMDAwMA==
+  date_gmt: !binary |-
+    MjAxMC0wMy0yMiAxNjoyODo1MSArMDAwMA==
+  content: ! '[...] Debian AM wrote about synergy a while ago: My Boss, with a little
+    help, starts the conversion to Linux - Source Guru  I haven&#39;t got round to
+    trying it though, I have a four-way KVM for my test [...]'
+permalink: '203'
+---
+<p>Ok, so at work, pretty much the whole company uses Windows, of some sort. The web team, however, are pretty adamant that they use the best tools available for them, and we use Ubuntu because of this (because it's the easiest option that we all have the same distro, and as long as it's Linux, we don't mind)</p>
+<p>Anyway, at the moment we're working through the process of moving all our internal business applications from Visual Basic.NET (urgh!) to PHP + a web based app. The "Product Owner" for this is one of the bosses, who currently uses Windows Vista.</p>
+<p>He has, however, seen us all using Ubuntu and it's got him interested in using it. He's said that he wants to try using Ubuntu, and see whether he can get his work done on that, and slowly transition to it, as obviously, he needs to be able to use Windows for the .NET stuff (which sadly, doesn't work well under WINE).</p>
+<p>So, we set him up a Virtual Machine, and he got to grips with what he was doing, great. Except for the fact that he had to allocate memory to it, switching back and forth between windows and Ubuntu was a pain. He eventually gave up on this idea, and got a spare machine, a spare monitor, and set it up next to his machine.</p>
+<p>Still, however, it was a bit of a pain, he'd have to switch position on his desk, start using a different keyboard and mouse, and i was all a bit of hassle.</p>
+<p>Recently, we've gotten a "big screen" (which isn't actually that big!) for the Web Team to monitor the servers, our order download service, etc etc. We were showing our manager some of the stuff we could do with it, and he asked the question "So, how do you control it" - to which my response was to move my mouse off of the edge of my screen, and onto the big screen. "So is that a third monitor?" he asked. "No" I replied, it's another machine.</p>
+<p>Enter <a href="http://synergy2.sourceforge.net/">Synergy</a></p>
+<p>So this is the point where I explained to our manager exactly what synergy is. Trying to explain it however, is a bit of a hassle, so I'll try my best here. Synergy is an application that allows you to control another machine's keyboard and mouse from your own PC. It's a bit of a mix between a KVM switch, and Remote Desktop, but it doesn't require extra hardware, and you dont have to relay the video across the network to show it on your screen too.</p>
+<p>At this point, our boss got a glint in his eye</p>
+<p>"Does it work in Windows?" he asked. At this point, I didn't realise that he had a seperate machine for Ubuntu. I told him it did anyway, but I wasn't too sure whether it worked with Vista</p>
+<p>"Lets give it a go anyway"</p>
+<p>So we went over to his machine, and I installed <em>quicksynergy</em> on his ubuntu box, while he downloaded the Windows installer for Synergy. 5 minutes later, he was grinning like a maniac as he moved his mouse from one machine to another.</p>
+<p>Now he's happily using Ubuntu without any hassle, it's just a third screen to him - with different stuff on it.</p>
+<p>I think the moral here is, there are different ways to get people to be able to use Linux, and Synergy is one of those great tools that enable people to use Linux without having all the hassle that comes with switching over.</p>
+<p>I think also, a quote from m manager sums it up.</p>
+<blockquote><p>This is one of the best things I've seen all year. I thought it'd take forever to setup, but it was so quick. I can be so much more productive now</p></blockquote>
+<p>I hope that this will be one of the turning points for my manager, and we'll have another convert by the end of the year</p>

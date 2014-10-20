@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Finally!
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 48
+wordpress_url: http://www.sourceguru.net/archives/48
+date: !binary |-
+  MjAwNi0xMC0zMCAxODowMzoyNSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNi0xMC0zMCAxNzowMzoyNSArMDAwMA==
+categories:
+- Personal
+tags: []
+comments: []
+permalink: finally
+---
+<p>I've finally.... after god knows how long, got my internet sorted out at home.</p>
+<p>Thanks to the guys at <a href="http://www.webtapestry.net/">WebTapestry</a> for providing excellent support and Internet access where others said they couldn't</p>
+<p>Also thanks to <a href="http://neuro.me.uk/">neuro</a> for recommending them.</p>
+<p>Expect to see more of me around the net now ;)</p>
+<p>Oh, and it was nice when I opened my router to see a copy of the GPL staring up at me</p>

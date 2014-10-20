@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: Hmmles.
+author:
+  display_name: Mez
+  login: admin
+  email: martin@sourceguru.net
+  url: http://www.sourceguru.net/
+author_login: admin
+author_email: martin@sourceguru.net
+author_url: http://www.sourceguru.net/
+wordpress_id: 88
+wordpress_url: http://www.sourceguru.net/archives/88
+date: !binary |-
+  MjAwNy0wOS0xMiAxMjozMDo0MyArMDEwMA==
+date_gmt: !binary |-
+  MjAwNy0wOS0xMiAxMTozMDo0MyArMDEwMA==
+categories:
+- Geeky
+tags: []
+comments:
+- id: 13005
+  author: Greg M. Johnson
+  author_email: pterandon@yahoo.com
+  author_url: http://pterandon.blogspot.com
+  date: !binary |-
+    MjAwNy0wOS0xMiAxNDo0OToyMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0wOS0xMiAxMzo0OToyMSArMDEwMA==
+  content: I've found Kaffeine to be a uniformly worthless piece of garbage for years.
+    It doesn't play anything for me, ever.
+- id: 13006
+  author: Alex
+  author_email: awauck@gac.edu
+  author_url: ''
+  date: !binary |-
+    MjAwNy0wOS0xMiAxNToyNTowMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0wOS0xMiAxNDoyNTowMCArMDEwMA==
+  content: Personally, I like Kaffeine, and it has served me well for quite a while.  It
+    looks like your installation of Kaffeine may be messed up, especially if Xine
+    works, but Kaffeine doesn't.  As a work-around, you could use VLC.  It may not
+    be as nice in some ways, but at least it should be usable.
+permalink: hmmles
+---
+<p>Ok, now it seems that I can play videos in Xine.. but not in kaffeine I managed to do this by switching to openGl mode ni Xine itself... however, kaffeine won't allow me to do that.</p>
+<p><img STYLE="width: 492px; height: 463px" HEIGHT="463" WIDTH="492" SRC="http://www.sourceguru.net/files/xineissues.jpg" /></p>
+<p>Any ideas? (It's good, I can now watch my movies!-  but I prefer Kaffeine's GUI!)</p>
