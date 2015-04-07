@@ -8,7 +8,7 @@ description: >
   But I do have a bag of candy.<br />Would you like one?  No?
   Oh well, more for me.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.sourceguru.net/" # the base hostname & protocol for your site
+url: "https://www.sourceguru.net" # the base hostname & protocol for your site
 twitter_username: mezzle
 github_username:  mezzle
 
