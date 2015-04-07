@@ -21,7 +21,6 @@ $(function() {
 
     // Are we close to the end of the page? If we are, load more posts
     $(window).scroll(function(e){
-        console.log(shouldFetchPosts, isFetchingPosts);
         if (!shouldFetchPosts || isFetchingPosts) return;
 
         var windowHeight = $(window).height(),
@@ -29,8 +28,6 @@ $(function() {
         bottomScrollPosition = windowHeight + windowScrollPosition,
         documentHeight = $(document).height();
 
-        console.log(bottomScrollPosition);
-        console.log(documentHeight - loadNewPostsThreshold);
         // If we've scrolled past the loadNewPostsThreshold, fetch posts
         if ((documentHeight - loadNewPostsThreshold) < bottomScrollPosition) {
             fetchPosts();
