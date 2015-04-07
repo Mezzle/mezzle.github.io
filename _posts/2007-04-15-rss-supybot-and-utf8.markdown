@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 56
-wordpress_url: http://www.sourceguru.net/archives/56
+wordpress_url: https://www.sourceguru.net/archives/56
 date: !binary |-
   MjAwNy0wNC0xNSAyMjoxMTozNCArMDEwMA==
 date_gmt: !binary |-
@@ -55,4 +55,4 @@ permalink: rss-supybot-and-utf8
 <p>Well, it worked, now if only I could find the supybot bugtracker</p>
 <blockquote><p>&lt;+zeth&gt; that is why those Launchpad people have a point<br />
 &lt;+zeth&gt; One bugtracker to rule them all</p></blockquote>
-<p><a href="http://www.sourceguru.net/archives/16">I totally agree </a></p>
+<p><a href="https://www.sourceguru.net/archives/16">I totally agree </a></p>

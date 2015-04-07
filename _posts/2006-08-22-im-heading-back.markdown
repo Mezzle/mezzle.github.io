@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 32
-wordpress_url: http://www.sourceguru.net/archives/32
+wordpress_url: https://www.sourceguru.net/archives/32
 date: !binary |-
   MjAwNi0wOC0yMiAxNzoyMDoyOSArMDEwMA==
 date_gmt: !binary |-
@@ -23,7 +23,7 @@ tags: []
 comments: []
 permalink: im-heading-back
 ---
-<p>A while back, I wrote a <a href="http://www.sourceguru.net/archives/30" target="_blank">post</a> saying that I'd be away for some time.</p>
+<p>A while back, I wrote a <a href="https://www.sourceguru.net/archives/30" target="_blank">post</a> saying that I'd be away for some time.</p>
 <p>I'm happy to say that within the next few weeks I'll be heading back and resuming my role(s) under the many projects I've undertaken.</p>
 <p>At the moment, there are a few things that I definately need to get up to date on. And they're my priorities.</p>
 <ul>

@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 241
-wordpress_url: http://www.sourceguru.net/its-nice-to-see-young-people-getting-into-open-source
+wordpress_url: https://www.sourceguru.net/its-nice-to-see-young-people-getting-into-open-source
 date: !binary |-
   MjAwOS0wNy0xMiAxNToyMzo0NiArMDEwMA==
 date_gmt: !binary |-
@@ -47,7 +47,7 @@ comments:
 - id: 40431
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAwOS0wNy0xMyAxNjoyMDo0MCArMDEwMA==
   date_gmt: !binary |-
@@ -64,7 +64,7 @@ comments:
     MjAwOS0wNy0xMyAxNjoxNzo0OSArMDEwMA==
   content: ! '[...] Linus Torvalds gibt Einblicke in seine persÃ¶nliche online Situation
     und erklÃ¤rt, warum er von DSL auf Kabel gewechselt hat. http://www.linuxfoundation.org/news-media/blogs/browse/2009/07/not-so-evil-empire  Martin
-    Meredith darf erfahren, wie sehr junge Menschen Open Source erleben. http://www.sourceguru.net/its-nice-to-see-young-people-getting-into-open-source
+    Meredith darf erfahren, wie sehr junge Menschen Open Source erleben. https://www.sourceguru.net/its-nice-to-see-young-people-getting-into-open-source
     [...]'
 - id: 41656
   author: TheGZeus

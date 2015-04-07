@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 71
-wordpress_url: http://www.sourceguru.net/archives/71
+wordpress_url: https://www.sourceguru.net/archives/71
 date: !binary |-
   MjAwNy0wOC0xNiAyMzozMDo1OSArMDEwMA==
 date_gmt: !binary |-
@@ -85,12 +85,12 @@ permalink: compiz-in-gutsy-a-sort-of-review
 <p>Ok, so it's been a while since I've used compiz, simply because well, I liked Beryl better/ However, I didn't use that much because there were a few niggly bugs that just meade me annoyed as hell...</p>
 <p>Anyway, seeing as I've now done a reinstall of Gutsy (due to a broken upgrade from feisty making dbus not work, half the udev stuff be missing, and it would only work with the feisty kernel!) I've decided to try what I now believe is called "Compiz Fusion" (though in ubuntu seems only to be called Compiz)</p>
 <p>To start off with, I used the compiz-tray-icon, which gives you a nice menu to right click, and select "Gl Desktop", which is nice, and works pretty much straight off of the bat (after following <a href="https://help.ubuntu.com/community/CompositeManager/AIGLXOnEdgy#head-53afd5bec7a06c3f61c31c135f21448435dad6bd">these instructions</a>), giving you all your nice shiny desktop effects (you can find this as part of gnome-compiz-manager)</p>
-<p><a href="http://www.sourceguru.net/wp-content/uploads/2007/08/compiz-tray.jpg" title="Compiz Tray Icon"><img src="http://www.sourceguru.net/wp-content/uploads/2007/08/compiz-tray.thumbnail.jpg" alt="Compiz Tray Icon" /></a>     <a href="http://www.sourceguru.net/wp-content/uploads/2007/08/compiz-tray.jpg" title="Compiz Tray Icon"><br />
+<p><a href="https://www.sourceguru.net/wp-content/uploads/2007/08/compiz-tray.jpg" title="Compiz Tray Icon"><img src="https://www.sourceguru.net/wp-content/uploads/2007/08/compiz-tray.thumbnail.jpg" alt="Compiz Tray Icon" /></a>     <a href="https://www.sourceguru.net/wp-content/uploads/2007/08/compiz-tray.jpg" title="Compiz Tray Icon"><br />
 </a></p>
 <p>However as you should all know, my allegiance lies with KDE. Now, with KDE there are a few... issues, shall we say. First of all... viewports are broken and crackful at the moment in KDE. (from the perspective of me trying to use them with compiz), and dont pick up properly the sides of your cube. (confusingly enough, the desktop pager tried to give me 16 desktops with the generic cube!)</p>
 <p>Luckily, I don't use the desktop switcher much anyway... but, there was another issue, that being that the K Menu, kicker, tooltips and a few other things were trying to cast a shadow, but couldn't for some reason (so I'd get a lovely white line around my tooltips, above my kicker, around the K Menu)</p>
 <p>I loaded up ccsm (CompizConfig Settings Manager - package is called compizconfig-settings-manager -  a great compiz configuration tool!) and used that to edit my config for my Compiz settings.</p>
-<p><a href="http://www.sourceguru.net/wp-content/uploads/2007/08/ccsm.jpg" title="CompizConfic Settings Manager"><img src="http://www.sourceguru.net/wp-content/uploads/2007/08/ccsm.thumbnail.jpg" alt="CompizConfic Settings Manager" /></a></p>
+<p><a href="https://www.sourceguru.net/wp-content/uploads/2007/08/ccsm.jpg" title="CompizConfic Settings Manager"><img src="https://www.sourceguru.net/wp-content/uploads/2007/08/ccsm.thumbnail.jpg" alt="CompizConfic Settings Manager" /></a></p>
 <p>Nothing changed.</p>
 <p>I didn't know why until I tried running Compiz Manually... and all the changes I'd made there were.... there.</p>
 <p>I don't use the tray icon anymore, and I have 2 icons on my desktop to switch back and forth between GL and non GL mode now.</p>

@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 154
-wordpress_url: http://www.sourceguru.net/?p=154
+wordpress_url: https://www.sourceguru.net/?p=154
 date: !binary |-
   MjAwOC0wOS0xNyAyMDowODoyOCArMDEwMA==
 date_gmt: !binary |-
@@ -50,5 +50,5 @@ comments:
 permalink: succombing-to-the-meme
 ---
 <p>Ok, so it's vary rare that I'll become a sheep and add to the "planet full of meme"... However, it's quietened down now... so I thought I'd join in.</p>
-<p>Thing is ... not that long ago, I'd <a href="http://www.sourceguru.net/archives/129">already asked about peoples naming schemas</a></p>
+<p>Thing is ... not that long ago, I'd <a href="https://www.sourceguru.net/archives/129">already asked about peoples naming schemas</a></p>
 <p>I <em>had</em> hoped to start a meme with that post. Obviously <a href="http://madduck.net/blog/2008.09.12:doom/">madduck was more successful</a></p>

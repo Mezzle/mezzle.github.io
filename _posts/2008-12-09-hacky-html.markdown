@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 181
-wordpress_url: http://www.sourceguru.net/?p=181
+wordpress_url: https://www.sourceguru.net/?p=181
 date: !binary |-
   MjAwOC0xMi0wOSAwMzoxOTo1NiArMDAwMA==
 date_gmt: !binary |-
@@ -185,13 +185,13 @@ comments:
 permalink: hacky-html
 ---
 <p>Ok, so working on a new site, I've realised that an image I've floated to the right of my text seems to be overlapping the items beneath it.</p>
-<p><a href="http://www.sourceguru.net/wp-content/uploads/2008/12/without-no-sidebar.png"><img class="alignnone size-thumbnail wp-image-182" title="without-no-sidebar" src="http://www.sourceguru.net/wp-content/uploads/2008/12/without-no-sidebar-150x150.png" alt="" width="150" height="150" /></a></p>
+<p><a href="https://www.sourceguru.net/wp-content/uploads/2008/12/without-no-sidebar.png"><img class="alignnone size-thumbnail wp-image-182" title="without-no-sidebar" src="https://www.sourceguru.net/wp-content/uploads/2008/12/without-no-sidebar-150x150.png" alt="" width="150" height="150" /></a></p>
 <p>Ok, so, that's obviously not what we want!!!!</p>
 <p>Normally, I'd use <a href="http://www.positioniseverything.net/easyclearing.html">clearfix</a> for this, however, I have the issue that I will also be using a sidebar (at times) and well, clearfix will interfere with this:-</p>
-<p><a href="http://www.sourceguru.net/wp-content/uploads/2008/12/with-cf.png"><img class="alignnone size-thumbnail wp-image-183" title="with-cf" src="http://www.sourceguru.net/wp-content/uploads/2008/12/with-cf-150x150.png" alt="" width="150" height="150" /></a></p>
+<p><a href="https://www.sourceguru.net/wp-content/uploads/2008/12/with-cf.png"><img class="alignnone size-thumbnail wp-image-183" title="with-cf" src="https://www.sourceguru.net/wp-content/uploads/2008/12/with-cf-150x150.png" alt="" width="150" height="150" /></a></p>
 <p>So, that's obviously not something we want! - I had to find a nice way of doing this, without it interfering with everything else!</p>
 <p>I thought about this, and thought I'd do a bit of voodoo with CSS and make this work!</p>
-<p><a href="http://www.sourceguru.net/wp-content/uploads/2008/12/with-mine-sidebar.png"><img class="alignnone size-thumbnail wp-image-184" title="with-mine-sidebar" src="http://www.sourceguru.net/wp-content/uploads/2008/12/with-mine-sidebar-150x150.png" alt="" width="150" height="150" /></a></p>
+<p><a href="https://www.sourceguru.net/wp-content/uploads/2008/12/with-mine-sidebar.png"><img class="alignnone size-thumbnail wp-image-184" title="with-mine-sidebar" src="https://www.sourceguru.net/wp-content/uploads/2008/12/with-mine-sidebar-150x150.png" alt="" width="150" height="150" /></a></p>
 <p>Yay! It worked!</p>
 <p>How'd I do this you may ask. Well, the containing div needed the following CSS (which also, quite niftily extends the height of the float if it's the shorter one, making it the full height of the containing div</p>
 <pre style="padding-left: 30px;">overflow: hidden;

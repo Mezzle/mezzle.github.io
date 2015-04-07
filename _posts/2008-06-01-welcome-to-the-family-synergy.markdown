@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 129
-wordpress_url: http://www.sourceguru.net/?p=129
+wordpress_url: https://www.sourceguru.net/?p=129
 date: !binary |-
   MjAwOC0wNi0wMSAwMTo0Njo1NyArMDEwMA==
 date_gmt: !binary |-
@@ -452,7 +452,7 @@ comments:
 - id: 26086
   author: Source Guru &raquo; Blog Archive &raquo; Succombing to the meme
   author_email: ''
-  author_url: http://www.sourceguru.net/archives/154
+  author_url: https://www.sourceguru.net/archives/154
   date: !binary |-
     MjAwOC0wOS0xNyAyMDowODozMCArMDEwMA==
   date_gmt: !binary |-

@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 114
-wordpress_url: http://www.sourceguru.net/archives/114
+wordpress_url: https://www.sourceguru.net/archives/114
 date: !binary |-
   MjAwOC0wMS0yMyAyMToyMjowMiArMDAwMA==
 date_gmt: !binary |-
@@ -160,4 +160,4 @@ comments:
 permalink: i-want-one
 ---
 <p><object type="application/x-shockwave-flash" data="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1752868&fullscreen=1" width="480" height="360" ><param name="allowfullscreen" value="true" /><param name="movie" quality="best" value="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1752868&fullscreen=1" /></object><br />
-If you are viewing this on  a planet, you may need to click <a href="http://www.sourceguru.net/archives/114">here</a> to view  the video</p>
+If you are viewing this on  a planet, you may need to click <a href="https://www.sourceguru.net/archives/114">here</a> to view  the video</p>

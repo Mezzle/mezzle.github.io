@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 16
-wordpress_url: http://www.sourceguru.net/archives/16
+wordpress_url: https://www.sourceguru.net/archives/16
 date: !binary |-
   MjAwNi0wMi0yNSAwODo1OToyOCArMDAwMA==
 date_gmt: !binary |-
@@ -133,7 +133,7 @@ comments:
 - id: 4152
   author: RSS, supybot and utf8 at Source Guru
   author_email: ''
-  author_url: http://www.sourceguru.net/archives/56
+  author_url: https://www.sourceguru.net/archives/56
   date: !binary |-
     MjAwNy0wNC0xNSAyMjoxMjoyOCArMDEwMA==
   date_gmt: !binary |-

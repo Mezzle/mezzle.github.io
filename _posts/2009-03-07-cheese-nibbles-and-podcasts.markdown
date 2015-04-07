@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 198
-wordpress_url: http://www.sourceguru.net/?p=198
+wordpress_url: https://www.sourceguru.net/?p=198
 date: !binary |-
   MjAwOS0wMy0wNyAxNzoyMDo1NyArMDAwMA==
 date_gmt: !binary |-
@@ -55,7 +55,7 @@ comments:
     was just plain text, less server load and traffic for you too.
 permalink: cheese-nibbles-and-podcasts
 ---
-<p>So, fanatical readers of my blog (are there any?) may remember a long time back that I <a href="http://www.sourceguru.net/archives/26">got bored and wrote a little script that amused me</a>.</p>
+<p>So, fanatical readers of my blog (are there any?) may remember a long time back that I <a href="https://www.sourceguru.net/archives/26">got bored and wrote a little script that amused me</a>.</p>
 <p>While testing something out yesterday, I needed to find a domain that I wasn't using in production so I could test on it. I stumbled across <a href="http://www.cheesenibbles.com/">Cheese Nibbles</a> which had a lovely "We'll be back with something cool soon" message on it.</p>
 <p>So, I did my tests, and they worked. Everything's good. I'd actually forgotten what was on Cheese Nibbles in the first place, so I started rooting round in the code. I found the old site, and I decided to resurrect it.</p>
 <p>I posted in a couple of IRC channels, to see if other people found the site amusing, and got the following back in response</p>

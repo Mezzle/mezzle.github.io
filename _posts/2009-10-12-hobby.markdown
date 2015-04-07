@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 278
-wordpress_url: http://www.sourceguru.net/?p=278
+wordpress_url: https://www.sourceguru.net/?p=278
 date: !binary |-
   MjAwOS0xMC0xMiAyMDoyNDo1OSArMDEwMA==
 date_gmt: !binary |-
@@ -91,4 +91,4 @@ comments:
 permalink: hobby
 ---
 <p>Freaking out the freaks on Omegle.</p>
-<p><a href="http://www.sourceguru.net/wp-content/uploads/2009/10/Omegle.png"><img class="alignnone size-medium wp-image-279" title="Omegle" src="http://www.sourceguru.net/wp-content/uploads/2009/10/Omegle-300x170.png" alt="Omegle" width="300" height="170" /></a></p>
+<p><a href="https://www.sourceguru.net/wp-content/uploads/2009/10/Omegle.png"><img class="alignnone size-medium wp-image-279" title="Omegle" src="https://www.sourceguru.net/wp-content/uploads/2009/10/Omegle-300x170.png" alt="Omegle" width="300" height="170" /></a></p>

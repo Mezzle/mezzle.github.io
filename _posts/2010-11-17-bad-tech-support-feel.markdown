@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 339
-wordpress_url: http://www.sourceguru.net/?p=339
+wordpress_url: https://www.sourceguru.net/?p=339
 date: !binary |-
   MjAxMC0xMS0xNyAxNzoxMDoyOCArMDAwMA==
 date_gmt: !binary |-
@@ -36,7 +36,7 @@ comments:
 - id: 75251
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0xMS0xNyAyMToyMzoxOCArMDAwMA==
   date_gmt: !binary |-
@@ -90,4 +90,4 @@ comments:
     \r\nvisitors that they will help, so here it happens."
 permalink: bad-tech-support-feel
 ---
-<p><a href="http://www.sourceguru.net/wp-content/uploads/2010/09/62483229d.jpg"><img src="http://www.sourceguru.net/wp-content/uploads/2010/09/62483229d.jpg" alt="Dear Lord, please grant me the ability to punch people in the face over standard TCP/IP" title="62483229d" width="174" height="320" class="alignnone size-full wp-image-346" /></a></p>
+<p><a href="https://www.sourceguru.net/wp-content/uploads/2010/09/62483229d.jpg"><img src="https://www.sourceguru.net/wp-content/uploads/2010/09/62483229d.jpg" alt="Dear Lord, please grant me the ability to punch people in the face over standard TCP/IP" title="62483229d" width="174" height="320" class="alignnone size-full wp-image-346" /></a></p>

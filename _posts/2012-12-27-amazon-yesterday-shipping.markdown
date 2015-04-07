@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 388
-wordpress_url: http://www.sourceguru.net/?p=388
+wordpress_url: https://www.sourceguru.net/?p=388
 date: !binary |-
   MjAxMi0xMi0yNyAyMjozNDoyMCArMDAwMA==
 date_gmt: !binary |-
@@ -24,7 +24,7 @@ comments: []
 permalink: amazon-yesterday-shipping
 ---
 <p>So, it seems that I've managed to have something delivered 2 weeks before it was ordered.</p>
-<p><a href="http://www.sourceguru.net/wp-content/uploads/2012/12/Screenshot-from-2012-12-27-220525.png"><img class="alignnone size-medium wp-image-389" title="Screenshot from 2012-12-27 22:05:25" src="http://www.sourceguru.net/wp-content/uploads/2012/12/Screenshot-from-2012-12-27-220525-300x169.png" alt="" width="300" height="169" /></a></p>
+<p><a href="https://www.sourceguru.net/wp-content/uploads/2012/12/Screenshot-from-2012-12-27-220525.png"><img class="alignnone size-medium wp-image-389" title="Screenshot from 2012-12-27 22:05:25" src="https://www.sourceguru.net/wp-content/uploads/2012/12/Screenshot-from-2012-12-27-220525-300x169.png" alt="" width="300" height="169" /></a></p>
 <p>I had a chat with the Amazon agent - transcribe follows</p>
 <blockquote><p>You are now connected to Aiyswarya from Amazon.co.uk.<br />
 <strong>Me:</strong> Tracking info says that package was delivered 2 weeks before I ordered it.<br />

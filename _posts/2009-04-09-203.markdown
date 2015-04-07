@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 203
-wordpress_url: http://www.sourceguru.net/?p=203
+wordpress_url: https://www.sourceguru.net/?p=203
 date: !binary |-
   MjAwOS0wNC0wOSAyMTowNjo1NSArMDEwMA==
 date_gmt: !binary |-
@@ -198,7 +198,7 @@ comments:
   date_gmt: !binary |-
     MjAwOS0wNC0xMSAxMjowMDo1MCArMDEwMA==
   content: ! '[...] Boss, with a little help, starts the conversion to Linux &lt;
-    http://www.sourceguru.net/archives/203 [...]'
+    https://www.sourceguru.net/archives/203 [...]'
 - id: 35703
   author: Socceroos
   author_email: skduff@gmail.com

@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 329
-wordpress_url: http://www.sourceguru.net/?p=329
+wordpress_url: https://www.sourceguru.net/?p=329
 date: !binary |-
   MjAxMC0wOC0xOCAwOTo1MTozOCArMDEwMA==
 date_gmt: !binary |-
@@ -90,7 +90,7 @@ comments:
     MjAxMC0wOC0xOCAxNTo0MTo1MiArMDEwMA==
   date_gmt: !binary |-
     MjAxMC0wOC0xOCAxNDo0MTo1MiArMDEwMA==
-  content: ! '[...] Souce Guru : http://www.sourceguru.net/mark-shuttleworth-driving-me-insane/.
+  content: ! '[...] Souce Guru : https://www.sourceguru.net/mark-shuttleworth-driving-me-insane/.
     AKPC_IDS += &quot;603,&quot;;Popularity: 1% [?]  Tweet      No Comments Posted
     by nizarus in planet-fr, [...]'
 - id: 616703

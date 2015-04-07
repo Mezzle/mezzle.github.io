@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 326
-wordpress_url: http://www.sourceguru.net/?p=326
+wordpress_url: https://www.sourceguru.net/?p=326
 date: !binary |-
   MjAxMC0wNS0yNyAyMToyMDoyOSArMDEwMA==
 date_gmt: !binary |-
@@ -115,7 +115,7 @@ comments:
 - id: 57734
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0wNS0yNyAyMzowNToxNCArMDEwMA==
   date_gmt: !binary |-
@@ -214,7 +214,7 @@ comments:
 - id: 57765
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0wNS0yOCAwNzo1NDo0MCArMDEwMA==
   date_gmt: !binary |-
@@ -223,7 +223,7 @@ comments:
 - id: 57766
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0wNS0yOCAwNzo1NToxMiArMDEwMA==
   date_gmt: !binary |-
@@ -232,7 +232,7 @@ comments:
 - id: 57767
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0wNS0yOCAwNzo1NjozOSArMDEwMA==
   date_gmt: !binary |-
@@ -249,7 +249,7 @@ comments:
 - id: 57768
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0wNS0yOCAwNzo1Nzo1MyArMDEwMA==
   date_gmt: !binary |-
@@ -266,7 +266,7 @@ comments:
 - id: 57770
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0wNS0yOCAwNzo1ODozNCArMDEwMA==
   date_gmt: !binary |-
@@ -276,7 +276,7 @@ comments:
 - id: 57771
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0wNS0yOCAwNzo1OToxNSArMDEwMA==
   date_gmt: !binary |-
@@ -286,7 +286,7 @@ comments:
 - id: 57772
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0wNS0yOCAwNzo1OToyOSArMDEwMA==
   date_gmt: !binary |-
@@ -334,7 +334,7 @@ comments:
 - id: 57792
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0wNS0yOCAxMzo1MDo1NyArMDEwMA==
   date_gmt: !binary |-

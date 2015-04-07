@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 290
-wordpress_url: http://www.sourceguru.net/?p=290
+wordpress_url: https://www.sourceguru.net/?p=290
 date: !binary |-
   MjAwOS0xMS0zMCAyMzoyMTo1OCArMDAwMA==
 date_gmt: !binary |-
@@ -82,7 +82,7 @@ comments:
 - id: 46447
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAwOS0xMi0wMSAwODoyODowOSArMDAwMA==
   date_gmt: !binary |-

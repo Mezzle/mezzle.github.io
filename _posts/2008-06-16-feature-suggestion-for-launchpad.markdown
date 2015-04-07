@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 133
-wordpress_url: http://www.sourceguru.net/?p=133
+wordpress_url: https://www.sourceguru.net/?p=133
 date: !binary |-
   MjAwOC0wNi0xNiAyMjo1Mzo1MyArMDEwMA==
 date_gmt: !binary |-
@@ -90,5 +90,5 @@ comments:
   content: Excellent! :D
 permalink: feature-suggestion-for-launchpad
 ---
-<p style="text-align: left;"><a href="http://www.sourceguru.net/wp-content/uploads/2008/06/smokin.jpg"><img class="aligncenter size-thumbnail wp-image-134" title="smokin" src="http://www.sourceguru.net/wp-content/uploads/2008/06/smokin-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p style="text-align: left;"><a href="https://www.sourceguru.net/wp-content/uploads/2008/06/smokin.jpg"><img class="aligncenter size-thumbnail wp-image-134" title="smokin" src="https://www.sourceguru.net/wp-content/uploads/2008/06/smokin-150x150.jpg" alt="" width="150" height="150" /></a></p>
 <p style="text-align: left;">(Click to View)</p>

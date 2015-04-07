@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 124
-wordpress_url: http://www.sourceguru.net/?p=124
+wordpress_url: https://www.sourceguru.net/?p=124
 date: !binary |-
   MjAwOC0wNC0xNCAyMDo0NDozOCArMDEwMA==
 date_gmt: !binary |-
@@ -165,7 +165,7 @@ comments:
 - id: 57735
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMC0wNS0yNyAyMzoxNToyMiArMDEwMA==
   date_gmt: !binary |-
@@ -738,7 +738,7 @@ comments:
     MjAxNC0wOC0wNCAwMjoyNDozNSArMDEwMA==
   date_gmt: !binary |-
     MjAxNC0wOC0wNCAwMToyNDozNSArMDEwMA==
-  content: ! '[...] http://www.sourceguru.net/setting-up-networking-on-an-ubuntu-server/
+  content: ! '[...] https://www.sourceguru.net/setting-up-networking-on-an-ubuntu-server/
     [...]'
 - id: 669846
   author: mini warriors cheat tool

@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 78
-wordpress_url: http://www.sourceguru.net/archives/78
+wordpress_url: https://www.sourceguru.net/archives/78
 date: !binary |-
   MjAwNy0wOC0yNSAxMDowMjo1MSArMDEwMA==
 date_gmt: !binary |-
@@ -61,4 +61,4 @@ comments:
 permalink: giggle-of-the-day
 ---
 
-<p style="text-align: center"><img src="http://www.sourceguru.net/wp-content/uploads/2007/08/faking-pregnancy.jpg" alt="faking-pregnancy.jpg" /></p>
+<p style="text-align: center"><img src="https://www.sourceguru.net/wp-content/uploads/2007/08/faking-pregnancy.jpg" alt="faking-pregnancy.jpg" /></p>

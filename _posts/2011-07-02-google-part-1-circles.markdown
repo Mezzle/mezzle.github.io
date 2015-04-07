@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 377
-wordpress_url: http://www.sourceguru.net/?p=377
+wordpress_url: https://www.sourceguru.net/?p=377
 date: !binary |-
   MjAxMS0wNy0wMiAyMjoxNzo1MyArMDEwMA==
 date_gmt: !binary |-
@@ -96,7 +96,7 @@ comments:
 - id: 113732
   author: Mez
   author_email: martin@sourceguru.net
-  author_url: http://www.sourceguru.net/
+  author_url: https://www.sourceguru.net/
   date: !binary |-
     MjAxMS0wNy0wNCAyMTowMjo1MiArMDEwMA==
   date_gmt: !binary |-
@@ -161,10 +161,10 @@ permalink: google-part-1-circles
 <p>At the moment, on Fred's social networking site, it's an all or nothing option.  If he allows you access to his profile, he allows you access to see anything and everything that might show up on there.  (It's a bit more complicated than this, but let's keep it simple for now).  Every time Fred has someone add him as a contact - he has to make that decision "Do I want this person to be able to see <em>everything</em> I may or may not get up to".</p>
 <p>Put simply, how many of you have refused someone to add you on the Social Networking site 'du jour' because what you show on their may be harmful to you, or give over an impression that isn't what you want to give across.</p>
 <p>Enter Circles.  Circles brings to the social networking scene the way we interact with people in real life.  We show a different aspect of our personality to different people we interact with.  I'm a bit of an organisational freak, and I know that there are different groups of people that either for the fact of portraying a persona, or not annoying everyone else, I might want to push in different ways.  For example, I might want to send out a "BBQ at my house, bring lots of alcohol" message to all my friends, but don't really want my co-workers coming along and making it so I have to be on my best behaviour.  Below is a screenshot of my (current) circles.</p>
-<p><img class="alignnone size-medium wp-image-378" title="Circles" src="http://www.sourceguru.net/wp-content/uploads/2011/07/Circles-300x138.png" alt="" width="300" height="138" /></p>
+<p><img class="alignnone size-medium wp-image-378" title="Circles" src="https://www.sourceguru.net/wp-content/uploads/2011/07/Circles-300x138.png" alt="" width="300" height="138" /></p>
 <p>As you can see - I have a fair few, and only a relative few people.</p>
 <p>Now, let's say that I wanted to send out that BBQ message...</p>
-<p><a href="http://www.sourceguru.net/wp-content/uploads/2011/07/send2friends2.png"><img class="alignnone size-full wp-image-380" title="send2friends2" src="http://www.sourceguru.net/wp-content/uploads/2011/07/send2friends2.png" alt="" width="476" height="444" /></a></p>
+<p><a href="https://www.sourceguru.net/wp-content/uploads/2011/07/send2friends2.png"><img class="alignnone size-full wp-image-380" title="send2friends2" src="https://www.sourceguru.net/wp-content/uploads/2011/07/send2friends2.png" alt="" width="476" height="444" /></a></p>
 <p>As you can see - I've the option to send this to the 5 people that are in my "Friends" group (it's currently mostly geeks on there - there are only a few of my real life friends on there so far!)</p>
 <p>Now with only a few clicks, I've managed to send out a message to just those few people that I want to :)</p>
 <p>Over the next few days, I'll write a bit more about Google+, but I thought I'd start with an introduction into the Circles feature.  I'll be giving a bit of feedback about what I like, what I dislike, and also making a few suggestions for what I'd like to see happen in the future (and probably use the word "siloing" a fair bit!)</p>

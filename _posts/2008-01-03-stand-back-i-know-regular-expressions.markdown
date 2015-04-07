@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 106
-wordpress_url: http://www.sourceguru.net/archives/106
+wordpress_url: https://www.sourceguru.net/archives/106
 date: !binary |-
   MjAwOC0wMS0wMyAwMjowOToxMiArMDAwMA==
 date_gmt: !binary |-
@@ -134,7 +134,7 @@ comments:
     main reason for aptitude having such a powerful search method).
 permalink: stand-back-i-know-regular-expressions
 ---
-<p>So, after the <a href="http://www.sourceguru.net/archives/105">last blog post</a>, I was talking to <a href="http://blogs.ubuntu-nl.org/dennis/">Seveas</a> and mentioned how I thought with all the nifty and useful commands coming in on here, I might make a <em>niftyutils</em> package. The conversation is as follows</p>
+<p>So, after the <a href="https://www.sourceguru.net/archives/105">last blog post</a>, I was talking to <a href="http://blogs.ubuntu-nl.org/dennis/">Seveas</a> and mentioned how I thought with all the nifty and useful commands coming in on here, I might make a <em>niftyutils</em> package. The conversation is as follows</p>
 <blockquote><p>&lt;Mez&gt;    thinking of compiling a few of these into a nifty-utils package ;)<br />
 &lt;Seveas&gt;    so we have coreutils, moreutils and nifty-utils?<br />
 &lt;Seveas&gt;    just contribute them to moreutils :)<br />

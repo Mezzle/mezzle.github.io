@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 88
-wordpress_url: http://www.sourceguru.net/archives/88
+wordpress_url: https://www.sourceguru.net/archives/88
 date: !binary |-
   MjAwNy0wOS0xMiAxMjozMDo0MyArMDEwMA==
 date_gmt: !binary |-
@@ -46,5 +46,5 @@ comments:
 permalink: hmmles
 ---
 <p>Ok, now it seems that I can play videos in Xine.. but not in kaffeine I managed to do this by switching to openGl mode ni Xine itself... however, kaffeine won't allow me to do that.</p>
-<p><img STYLE="width: 492px; height: 463px" HEIGHT="463" WIDTH="492" SRC="http://www.sourceguru.net/files/xineissues.jpg" /></p>
+<p><img STYLE="width: 492px; height: 463px" HEIGHT="463" WIDTH="492" SRC="https://www.sourceguru.net/files/xineissues.jpg" /></p>
 <p>Any ideas? (It's good, I can now watch my movies!-  but I prefer Kaffeine's GUI!)</p>

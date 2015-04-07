@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 20
-wordpress_url: http://www.sourceguru.net/archives/20
+wordpress_url: https://www.sourceguru.net/archives/20
 date: !binary |-
   MjAwNi0wMy0wNCAwMTozOTo1NiArMDAwMA==
 date_gmt: !binary |-
@@ -53,5 +53,5 @@ permalink: loss-of-functionality-again
 ---
 <p>For some reason - Mozilla Thunderbird has decided to not allow me to send emails anymore.- or at least it wont allow a Message composition to be opened.</p>
 <p>Apparently it's something cocked up in my prefs.js file... If anyone can see something wrong in it - please let me know ... here it is<br />
-<a title="My Prefs.js" href="http://www.sourceguru.net/wp-content/uploads/2006/03/prefs.js">My Prefs.js</a></p>
+<a title="My Prefs.js" href="https://www.sourceguru.net/wp-content/uploads/2006/03/prefs.js">My Prefs.js</a></p>
 <p>It's very very very very annoying - espescially cause i cant see anything wrong myself.</p>

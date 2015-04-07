@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 87
-wordpress_url: http://www.sourceguru.net/archives/87
+wordpress_url: https://www.sourceguru.net/archives/87
 date: !binary |-
   MjAwNy0wOS0xMSAyMzozNDowMCArMDEwMA==
 date_gmt: !binary |-
@@ -82,7 +82,7 @@ comments:
   content: ! "QHartman, I cant find any setting for me that works in Xine.\r\n\r\nDread
     Knight, I'm not running Compiz... though I might try disabling AIGLX...\r\n\r\n\r\ndief,
     nope - ati drivers... and well, if I use opengl output... I get a nice error\r\n\r\n<img
-    src=\"http://www.sourceguru.net/files/xineissues.jpg\" />"
+    src=\"https://www.sourceguru.net/files/xineissues.jpg\" />"
 - id: 13014
   author: coolvibe
   author_email: coolvibe@ninthcircle.xs4all.nl

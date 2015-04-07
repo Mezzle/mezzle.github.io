@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 109
-wordpress_url: http://www.sourceguru.net/archives/109
+wordpress_url: https://www.sourceguru.net/archives/109
 date: !binary |-
   MjAwOC0wMS0wNiAwMjoyMDoyOSArMDAwMA==
 date_gmt: !binary |-
@@ -52,4 +52,4 @@ comments:
 permalink: the-facebook-equivalent-of
 ---
 <p>"I am your father"</p>
-<p><img src="http://www.sourceguru.net/wp-content/uploads/2008/01/iamyourfather.png" alt="iamyourfather.png" /></p>
+<p><img src="https://www.sourceguru.net/wp-content/uploads/2008/01/iamyourfather.png" alt="iamyourfather.png" /></p>

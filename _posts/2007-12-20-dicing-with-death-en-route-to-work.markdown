@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 103
-wordpress_url: http://www.sourceguru.net/archives/103
+wordpress_url: https://www.sourceguru.net/archives/103
 date: !binary |-
   MjAwNy0xMi0yMCAxMjoyNDo1NSArMDAwMA==
 date_gmt: !binary |-
@@ -189,6 +189,6 @@ comments:
 permalink: dicing-with-death-en-route-to-work
 ---
 <p>Today on the way to work, a truck crashed into the railway bridge as my train was going over it. Luckily, noone was injured, and it was right by the station I had to get off at anyway. Now at work, but have an interesting photo to add to my collection</p>
-<p><a href="http://www.sourceguru.net/wp-content/uploads/2007/12/crash.jpg"><img src="http://www.sourceguru.net/wp-content/uploads/2007/12/crash-thumb.jpg" alt="Truck into bridge thumbnail" border="0" /></a></p>
+<p><a href="https://www.sourceguru.net/wp-content/uploads/2007/12/crash.jpg"><img src="https://www.sourceguru.net/wp-content/uploads/2007/12/crash-thumb.jpg" alt="Truck into bridge thumbnail" border="0" /></a></p>
 <p>(Click for full size image)</p>
 <p>Sorry about the quality, it was taken on my Mobile Phone Camera... which I spent ages playing with someone else's Vista machine so I could get the picture off of it. Damned Proprietary Software. I should go get a greenphone</p>

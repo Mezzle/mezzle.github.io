@@ -7,14 +7,14 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 excerpt: ! "So, anyone watching the show was actually pretty much told (although indirectly)
   how it was done.\r\n\r\n(Potential spoilers - see full post for my take)"
 wordpress_id: 251
-wordpress_url: http://www.sourceguru.net/derren-brown-my-take/
+wordpress_url: https://www.sourceguru.net/derren-brown-my-take/
 date: !binary |-
   MjAwOS0wOS0xOCAyMzowNDozMyArMDEwMA==
 date_gmt: !binary |-

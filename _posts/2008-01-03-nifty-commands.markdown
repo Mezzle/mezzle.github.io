@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 105
-wordpress_url: http://www.sourceguru.net/archives/105
+wordpress_url: https://www.sourceguru.net/archives/105
 date: !binary |-
   MjAwOC0wMS0wMyAwMDozNDo0MiArMDAwMA==
 date_gmt: !binary |-
@@ -226,7 +226,7 @@ comments:
 - id: 15536
   author: Stand back, I know regular expressions at Source Guru
   author_email: ''
-  author_url: http://www.sourceguru.net/archives/106
+  author_url: https://www.sourceguru.net/archives/106
   date: !binary |-
     MjAwOC0wMS0wMyAwMjowOToxNiArMDAwMA==
   date_gmt: !binary |-

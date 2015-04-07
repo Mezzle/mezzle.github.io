@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 225
-wordpress_url: http://www.sourceguru.net/?p=225
+wordpress_url: https://www.sourceguru.net/?p=225
 date: !binary |-
   MjAwOS0wNi0xNSAxOTo1Njo0MSArMDEwMA==
 date_gmt: !binary |-

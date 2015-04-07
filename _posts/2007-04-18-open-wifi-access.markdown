@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 58
-wordpress_url: http://www.sourceguru.net/archives/58
+wordpress_url: https://www.sourceguru.net/archives/58
 date: !binary |-
   MjAwNy0wNC0xOCAwNzoyNjo0NSArMDEwMA==
 date_gmt: !binary |-
@@ -105,7 +105,7 @@ comments:
 - id: 4165
   author: A case of mistaken identity? at Source Guru
   author_email: ''
-  author_url: http://www.sourceguru.net/archives/59
+  author_url: https://www.sourceguru.net/archives/59
   date: !binary |-
     MjAwNy0wNC0xOCAxNTo0NjozOSArMDEwMA==
   date_gmt: !binary |-

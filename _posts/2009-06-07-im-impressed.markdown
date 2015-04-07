@@ -7,12 +7,12 @@ author:
   display_name: Mez
   login: admin
   email: martin@sourceguru.net
-  url: http://www.sourceguru.net/
+  url: https://www.sourceguru.net/
 author_login: admin
 author_email: martin@sourceguru.net
-author_url: http://www.sourceguru.net/
+author_url: https://www.sourceguru.net/
 wordpress_id: 216
-wordpress_url: http://www.sourceguru.net/?p=216
+wordpress_url: https://www.sourceguru.net/?p=216
 date: !binary |-
   MjAwOS0wNi0wNyAxNjo1MzoxMSArMDEwMA==
 date_gmt: !binary |-
@@ -60,7 +60,7 @@ comments:
     skills may help)."
 permalink: im-impressed
 ---
-<p>My <a href="http://www.sourceguru.net/archives/212">latest blog post</a> about PPA Keys has had a few comments already. Having just returned from visiting my parents, I've noticed an email asking me to approve a Pingback.</p>
+<p>My <a href="https://www.sourceguru.net/archives/212">latest blog post</a> about PPA Keys has had a few comments already. Having just returned from visiting my parents, I've noticed an email asking me to approve a Pingback.</p>
 <p>The pingback was to a <a href="http://ubuntued.info/">Portuguese site</a> which had taken my post and written it into a <a href="http://ubuntued.info/2009/06/mantenha-as-chaves-gpg-do-launchpad-sempre-actualizadas.html">tutorial</a>.</p>
 <p>I've got to say, my portuguese may not be up to scratch, but it's obvious that this is a well written tutorial. I'm very impressed by this site, and the way that they've written, and illustrated this tutorial.</p>
 <p>All I can say is, great site <a href="https://edge.launchpad.net/~claudiocn">Claudio</a>! Keep up the good work! Something like this site in English would be an asset to the ubuntu community. It's well thought out, and well written</p>
