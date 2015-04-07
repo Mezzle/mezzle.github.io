@@ -83,5 +83,5 @@ comments:
 permalink: japan-disaster
 ---
 <p>It seems that once again, the squirrel has it right:-</p>
-<p><iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/5_mZrUkzabk" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/5_mZrUkzabk" frameborder="0" allowfullscreen></iframe></p>
 <p>For those of you reading this via a planet, or similar, please click on the title of this post to see the video I've embedded above. (<em>Please note, may contain language that offends some</em>)</p>
