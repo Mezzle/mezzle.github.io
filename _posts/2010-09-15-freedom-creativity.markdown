@@ -53,7 +53,7 @@ comments:
 permalink: freedom-creativity
 ---
 <p>One of the things that I love about our <a href="http://birmingham.lug.org.uk/">Local LUG</a> is the people.  At our LUG, we have our resident geek artist, <a href="http://www.hellocatfood.com/">Antonio Roberts (aka hellocatfood)</a> who, on the odd occasion, gets harassed into doing a talk for us.  His talks are always fairly awesome.  His previous talk about <a href="http://www.sourceguru.org/videos/5/">FLOSS + Art</a> is the video with the highest views on our <a href="http://www.sourceguru.org/videos/">video archive</a>, and tomorrow night, Thursday 16th September, at 19:30pm BST, he'll be delivering his next talk about his experience in the FLOSS community as an artist to us.</p>
-<p><img src="http://www.hellocatfood.com/wp-content/uploads/2010/09/freedomincreativity.png" alt="Freedom in Creativity" /></p>
+<p><img src="/images/freedomincreativity.png" alt="Freedom in Creativity" /></p>
 <p>In his own words:-</p>
 <blockquote><p>This talk extends greatly on what was said and goes into issues of copyright and what experiences I’ve had as an artist in the open source world</p></blockquote>
 <p>His previous talk was a bit of an eye-opener to me, as a pure geek with barely a trace of artistry in me, and it's always good to see the FLOSS world from the eyes of someone who doesn't exactly fit the stereotype of what you'd normally expect to see.</p>
