@@ -1,11 +1,42 @@
 body {
-  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+    font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6, .site-title {
-  font-family: 'Pacifico', cursive;
+    font-family: 'Pacifico', cursive;
 }
 
 tt, code, kbd, samp {
-  font-family: 'Ubuntu Mono', monospace;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+.infinite-spinner {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: #333;
+    margin: 60px auto;
+
+    -webkit-animation: scaleout 1.0s infinite ease-in-out;
+    animation: scaleout 1.0s infinite ease-in-out;
+}
+
+@-webkit-keyframes scaleout {
+    0% { -webkit-transform: scale(0.0) }
+    100% {
+        -webkit-transform: scale(1.0);
+        opacity: 0;
+    }
+}
+
+@keyframes scaleout {
+    0% {
+        transform: scale(0.0);
+        -webkit-transform: scale(0.0);
+    } 100% {
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+        opacity: 0;
+    }
 }

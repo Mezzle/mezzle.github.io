@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="listing">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 10%}
     <div class="post other link">
         <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
         <p class="post-date">{{ post.date | date_to_string }}</p>
@@ -12,4 +12,6 @@ title: Home
         <p>{{ post.excerpt }}</p>
     </div>
     {% endfor %}
+
+<div class="infinite-spinner"></div>
 </div>
