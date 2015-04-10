@@ -5,7 +5,7 @@ layout: default
 
   <header class="post-header">
     <div style="float: right;">
-        <script id='fbb23i7'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=Mez&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=62;f.width=55;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbb23i7');</script>
+        <script id='fbb23i7'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=Mez&title=' + encodeURIComponent('{{ page.title }}') + 'url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=62;f.width=55;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbb23i7');</script>
     </div>
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {% if page.author.display_name %}{{ page.author.display_name }}{% else %}{{ page.author }}{% endif %}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
