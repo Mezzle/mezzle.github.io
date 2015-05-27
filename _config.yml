@@ -11,4 +11,5 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.sourceguru.net" # the base hostname & protocol for your site
 twitter_username: mezzle
 github_username:  mezzle
-
+gems:
+    - jekyll-redirect-from

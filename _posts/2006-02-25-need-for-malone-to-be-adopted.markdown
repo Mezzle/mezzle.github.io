@@ -1,4 +1,5 @@
 ---
+redirect_from: archives/16
 layout: post
 status: publish
 published: true
