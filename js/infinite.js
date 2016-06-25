@@ -1,10 +1,10 @@
 $(function() {
 
     var postURLs,
-    isFetchingPosts = false,
-    shouldFetchPosts = true,
-    postsToLoad = $(".posts").children().length,
-    loadNewPostsThreshold = 3000;
+        isFetchingPosts = false,
+        shouldFetchPosts = true,
+        postsToLoad = $(".posts").children().length,
+        loadNewPostsThreshold = 3000;
 
     // Load the JSON file containing all URLs
     $.getJSON('/all_posts.json', function(data) {
@@ -12,21 +12,21 @@ $(function() {
 
         // If there aren't any more posts available to load than already visible, disable fetching
         if (postURLs.length <= postsToLoad)
-        disableFetching();
+            disableFetching();
     });
 
     // If there's no spinner, it's not a page where posts should be fetched
     if ($(".infinite-spinner").length < 1)
-    shouldFetchPosts = false;
+        shouldFetchPosts = false;
 
     // Are we close to the end of the page? If we are, load more posts
     $(window).scroll(function(e){
         if (!shouldFetchPosts || isFetchingPosts) return;
 
         var windowHeight = $(window).height(),
-        windowScrollPosition = $(window).scrollTop(),
-        bottomScrollPosition = windowHeight + windowScrollPosition,
-        documentHeight = $(document).height();
+            windowScrollPosition = $(window).scrollTop(),
+            bottomScrollPosition = windowHeight + windowScrollPosition,
+            documentHeight = $(document).height();
 
         // If we've scrolled past the loadNewPostsThreshold, fetch posts
         if ((documentHeight - loadNewPostsThreshold) < bottomScrollPosition) {
