@@ -21,7 +21,6 @@ $(function () {
 
     // Are we close to the end of the page? If we are, load more posts
     $(window).scroll(function (e) {
-        console.log(isFetchingPosts, shouldFetchPosts);
         if (!shouldFetchPosts || isFetchingPosts) return;
 
         var windowHeight = $(window).height();
@@ -79,5 +78,4 @@ $(function () {
         isFetchingPosts = false;
         $(".infinite-spinner").fadeOut();
     }
-
 });
