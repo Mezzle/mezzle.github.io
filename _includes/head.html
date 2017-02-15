@@ -11,6 +11,6 @@
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <script src="//code.jquery.com/jquery-3.0.0.min.js"></script>
-    <script src="{{ "/js/infinite.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/infinite.js" | prepend: site.baseurl | prepend site.url }}"></script>
 
 </head>
